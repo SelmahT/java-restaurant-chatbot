@@ -1,0 +1,2266 @@
+[
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Giant Beef Samosa",
+    "Details \/ Answer":"Giant Beef Samosa: Price is 320 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"320",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Pie",
+    "Details \/ Answer":"Chicken Pie: Price is 350 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"350",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Classic Smash Burger",
+    "Details \/ Answer":"Classic Smash Burger: Price is 1140 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1140",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Veggie Burger",
+    "Details \/ Answer":"Veggie Burger: Price is 780 KES, prep time is 15 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"780",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Quesadilla",
+    "Details \/ Answer":"Chicken Quesadilla: Price is 1080 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1080",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Java Special Chicken Curry",
+    "Details \/ Answer":"Java Special Chicken Curry: Price is 1110 KES, prep time is 20 mins, dietary info: Contains Meat.",
+    "Price_KES":"1110",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":20.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Crispy Chicken Breast Salad",
+    "Details \/ Answer":"Crispy Chicken Breast Salad: Price is 950 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Nuts.",
+    "Price_KES":"950",
+    "Tags_Dietary_Info":"Contains Meat, Contains Nuts",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chocolate Fudge Cake",
+    "Details \/ Answer":"Chocolate Fudge Cake: Price is 480 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"480",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Double Vanilla Latte",
+    "Details \/ Answer":"Double Vanilla Latte: Price is 400 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"400",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Sweet Crepes Combo",
+    "Details \/ Answer":"Sweet Crepes Combo: Price is 1,240 KES, prep time is 12 mins, dietary info: Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"1,240",
+    "Tags_Dietary_Info":"Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Fruit Salad (plain)",
+    "Details \/ Answer":"Fruit Salad (plain): Price is 550 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"550",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Fruit Salad with Yogurt, Honey & Nuts",
+    "Details \/ Answer":"Fruit Salad with Yogurt, Honey & Nuts: Price is 770 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Nuts, Contains Dairy, Contains Honey.",
+    "Price_KES":"770",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts, Contains Dairy, Contains Honey",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Hot Oatmeal Porridge Half Serve",
+    "Details \/ Answer":"Hot Oatmeal Porridge Half Serve: Price is 360 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy, Contains Nuts.",
+    "Price_KES":"360",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Nuts",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Hot Oatmeal Porridge Full Serve",
+    "Details \/ Answer":"Hot Oatmeal Porridge Full Serve: Price is 750 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Dairy, Contains Nuts.",
+    "Price_KES":"750",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Nuts",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Homemade Granola",
+    "Details \/ Answer":"Homemade Granola: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Nuts.",
+    "Price_KES":"350",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Homemade Granola with Yogurt & Honey\/Grapes",
+    "Details \/ Answer":"Homemade Granola with Yogurt & Honey\/Grapes: Price is 740 KES, prep time is 6 mins, dietary info: Vegetarian, Contains Nuts, Contains Dairy, Contains Honey.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts, Contains Dairy, Contains Honey",
+    "Estimated_Prep_Time_mins":6.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Al a Carte Sweet Crepes",
+    "Details \/ Answer":"Al a Carte Sweet Crepes: Price is 300 KES, prep time is 7 mins, dietary info: Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"300",
+    "Tags_Dietary_Info":"Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Single Fluffy Homemade Pancake",
+    "Details \/ Answer":"Single Fluffy Homemade Pancake: Price is 380 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"380",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Classic Pancakes",
+    "Details \/ Answer":"Classic Pancakes: Price is 780 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"780",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Pancakes Combo",
+    "Details \/ Answer":"Pancakes Combo: Price is 1,070 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"1,070",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Al a Carte French Toast",
+    "Details \/ Answer":"Al a Carte French Toast: Price is 620 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"620",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"French Toast Combo",
+    "Details \/ Answer":"French Toast Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Homefry Heaven",
+    "Details \/ Answer":"Homefry Heaven: Price is 950 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"950",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Eggs The Way You Like",
+    "Details \/ Answer":"Eggs The Way You Like: Price is 570 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"570",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Eggs The Way You Like with Chips\/Homefries",
+    "Details \/ Answer":"Eggs The Way You Like with Chips\/Homefries: Price is 740 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Eggs The Way You Like with Beef Sausage",
+    "Details \/ Answer":"Eggs The Way You Like with Beef Sausage: Price is 960 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"960",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Breakfast Sandwiches - Egg & Cheese",
+    "Details \/ Answer":"Breakfast Sandwiches - Egg & Cheese: Price is 740 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Breakfast Sandwiches - Egg & Cheese with Beef Sausage",
+    "Details \/ Answer":"Breakfast Sandwiches - Egg & Cheese with Beef Sausage: Price is 880 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"880",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Breakfast Sandwich Combo",
+    "Details \/ Answer":"Breakfast Sandwich Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Egg & Veg Omelette Combo",
+    "Details \/ Answer":"Egg & Veg Omelette Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Breakfast Maxi Combo",
+    "Details \/ Answer":"Breakfast Maxi Combo: Price is 1,260 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Steak and Eggs",
+    "Details \/ Answer":"Steak and Eggs: Price is 1,260 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Full Java Breakfast Combo",
+    "Details \/ Answer":"Full Java Breakfast Combo: Price is 1,360 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,360",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Egg & Cheese Burrito",
+    "Details \/ Answer":"Egg & Cheese Burrito: Price is 1,030 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,030",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Omelette Plain",
+    "Details \/ Answer":"Omelette Plain: Price is 740 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Eggs.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Omelette Spanish",
+    "Details \/ Answer":"Omelette Spanish: Price is 880 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Eggs.",
+    "Price_KES":"880",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Omelette Mushroom, Basil & Cheese",
+    "Details \/ Answer":"Omelette Mushroom, Basil & Cheese: Price is 980 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",
+    "Price_KES":"980",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Omelette Denver",
+    "Details \/ Answer":"Omelette Denver: Price is 980 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"980",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Cheese",
+    "Details \/ Answer":"Build Your Own Omelette - Cheese: Price is 230 KES, prep time is 2 mins, dietary info: Vegetarian.",
+    "Price_KES":"230",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Beef Sausage",
+    "Details \/ Answer":"Build Your Own Omelette - Beef Sausage: Price is 340 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Eggs.",
+    "Price_KES":"340",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Tomato",
+    "Details \/ Answer":"Build Your Own Omelette - Tomato: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Tomato.",
+    "Price_KES":"70",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy, Contains Tomato",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Onions",
+    "Details \/ Answer":"Build Your Own Omelette - Onions: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Onion.",
+    "Price_KES":"70",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy, Contains Onion",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Bell Pepper",
+    "Details \/ Answer":"Build Your Own Omelette - Bell Pepper: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Bell Pepper.",
+    "Price_KES":"70",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs, Contains Dairy, Contains Bell Pepper",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Build Your Own Omelette - Mushrooms",
+    "Details \/ Answer":"Build Your Own Omelette - Mushrooms: Price is 210 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Dairy, Contains Eggs, Contains Mushrooms.",
+    "Price_KES":"210",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Eggs, Contains Mushrooms",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Baked Beans",
+    "Details \/ Answer":"Baked Beans: Price is 180 KES, prep time is 5 mins, dietary info: Vegetarian.",
+    "Price_KES":"180",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"One Egg",
+    "Details \/ Answer":"One Egg: Price is 190 KES, prep time is 3 mins, dietary info: Vegetarian, Contains Eggs.",
+    "Price_KES":"190",
+    "Tags_Dietary_Info":"Vegetarian, Contains Eggs",
+    "Estimated_Prep_Time_mins":3.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Salsa",
+    "Details \/ Answer":"Salsa: Price is 190 KES, prep time is 2 mins, dietary info: Vegetarian.",
+    "Price_KES":"190",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Toast",
+    "Details \/ Answer":"Toast: Price is 190 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Wheat.",
+    "Price_KES":"190",
+    "Tags_Dietary_Info":"Vegetarian, Contains Wheat",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Honey Peanuts",
+    "Details \/ Answer":"Honey Peanuts: Price is 230 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Nuts, Contains Honey.",
+    "Price_KES":"230",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts, Contains Honey",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Guacamole",
+    "Details \/ Answer":"Guacamole: Price is 230 KES, prep time is 3 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"230",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":3.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Parsley Wedges",
+    "Details \/ Answer":"Parsley Wedges: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"310",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Homefries",
+    "Details \/ Answer":"Homefries: Price is 320 KES, prep time is 7 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"320",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Sukumawiki",
+    "Details \/ Answer":"Sukumawiki: Price is 360 KES, prep time is 7 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"360",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Cashew Nuts",
+    "Details \/ Answer":"Cashew Nuts: Price is 390 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Nuts.",
+    "Price_KES":"390",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"2 Beef Sausages",
+    "Details \/ Answer":"2 Beef Sausages: Price is 430 KES, prep time is 5 mins, dietary info: Contains Meat.",
+    "Price_KES":"430",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Onions",
+    "Details \/ Answer":"Grilled Onions: Price is 150 KES, prep time is 3 mins, dietary info: ,Vegeterian,Contains Onions.",
+    "Price_KES":"150",
+    "Tags_Dietary_Info":",Vegeterian,Contains Onions",
+    "Estimated_Prep_Time_mins":3.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Avocado",
+    "Details \/ Answer":"Avocado: Price is 170 KES, prep time is 2 mins, dietary info: Vegetarian.",
+    "Price_KES":"170",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Charred Bell Peppers",
+    "Details \/ Answer":"Charred Bell Peppers: Price is 180 KES, prep time is 3 mins, dietary info: Vegeterian,Contains Bell Peppers.",
+    "Price_KES":"180",
+    "Tags_Dietary_Info":"Vegeterian,Contains Bell Peppers",
+    "Estimated_Prep_Time_mins":3.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mushroom Sauce",
+    "Details \/ Answer":"Mushroom Sauce: Price is 210 KES, prep time is 3 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"210",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":3.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Gherkins",
+    "Details \/ Answer":"Gherkins: Price is 220 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"220",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Cheese",
+    "Details \/ Answer":"Cheese: Price is 220 KES, prep time is 1 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"220",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chapati (2)",
+    "Details \/ Answer":"Chapati (2): Price is 270 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan, Contains Wheat.",
+    "Price_KES":"270",
+    "Tags_Dietary_Info":"Vegetarian, Vegan, Contains Wheat",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mashed Potatoes",
+    "Details \/ Answer":"Mashed Potatoes: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"310",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"White Rice",
+    "Details \/ Answer":"White Rice: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"310",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mexican Beans",
+    "Details \/ Answer":"Mexican Beans: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"310",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Stir Fried Rice",
+    "Details \/ Answer":"Stir Fried Rice: Price is 320 KES, prep time is 6 mins, dietary info: Vegetarian, May contain Eggs\/Dairy depending on recipe.",
+    "Price_KES":"320",
+    "Tags_Dietary_Info":"Vegetarian, May contain Eggs\/Dairy depending on recipe",
+    "Estimated_Prep_Time_mins":6.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mexican Rice",
+    "Details \/ Answer":"Mexican Rice: Price is 320 KES, prep time is 6 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"320",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":6.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Steamed Vegetables",
+    "Details \/ Answer":"Steamed Vegetables: Price is 360 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"360",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Crunchy Chicken Strip Wrap",
+    "Details \/ Answer":"Crunchy Chicken Strip Wrap: Price is 1,140 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,140",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Halloumi & Avocado Wrap",
+    "Details \/ Answer":"Halloumi & Avocado Wrap: Price is 1,050 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,050",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Fajita Wrap",
+    "Details \/ Answer":"Chicken Fajita Wrap: Price is 1,190 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,190",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"California Chicken Wrap",
+    "Details \/ Answer":"California Chicken Wrap: Price is 1,190 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,190",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"BBQ Chicken & Cheese Wrap",
+    "Details \/ Answer":"BBQ Chicken & Cheese Wrap: Price is 1,160 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,160",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Cheese Sandwich",
+    "Details \/ Answer":"Grilled Cheese Sandwich: Price is 880 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"880",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Avocado, Cheese & Tomato Sandwich",
+    "Details \/ Answer":"Avocado, Cheese & Tomato Sandwich: Price is 890 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"890",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken & Cheese Sandwich",
+    "Details \/ Answer":"Chicken & Cheese Sandwich: Price is 890 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"890",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"BBQ Chicken Club",
+    "Details \/ Answer":"BBQ Chicken Club: Price is 890 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"890",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":8.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Vegetable & Halloumi Panini",
+    "Details \/ Answer":"Vegetable & Halloumi Panini: Price is 1,070 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,070",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Veggie Sandwich with Red Pepper Spread",
+    "Details \/ Answer":"Grilled Veggie Sandwich with Red Pepper Spread: Price is 1,080 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,080",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken & Sundried Tomato Sandwich",
+    "Details \/ Answer":"Grilled Chicken & Sundried Tomato Sandwich: Price is 1,200 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,200",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Cheesy Chicken & Mushroom Sandwich",
+    "Details \/ Answer":"Cheesy Chicken & Mushroom Sandwich: Price is 1,240 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,240",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Triple Decker Sandwich",
+    "Details \/ Answer":"Triple Decker Sandwich: Price is 1,280 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,280",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Java Lunch Combo",
+    "Details \/ Answer":"Java Lunch Combo: Price is 1,440 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat (plus sides: soup, chips, salad, or vegetables).",
+    "Price_KES":"1,440",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat (plus sides: soup, chips, salad, or vegetables)",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Umami Burger",
+    "Details \/ Answer":"Umami Burger: Price is 1,340 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,340",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Hawaiian Caramelized Onion Burger",
+    "Details \/ Answer":"Hawaiian Caramelized Onion Burger: Price is 1,340 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,340",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Ben\u2019s Burger",
+    "Details \/ Answer":"Ben\u2019s Burger: Price is 1,360 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,360",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Double-Double Burger",
+    "Details \/ Answer":"Double-Double Burger: Price is 1,670 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,670",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken Burger",
+    "Details \/ Answer":"Grilled Chicken Burger: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Crunchy Chicken Burger",
+    "Details \/ Answer":"Crunchy Chicken Burger: Price is 1,290 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,290",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken Cheese Burger",
+    "Details \/ Answer":"Grilled Chicken Cheese Burger: Price is 1,300 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,300",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Veggie Cheese Burger",
+    "Details \/ Answer":"Veggie Cheese Burger: Price is 1,120 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,120",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken Fajitas",
+    "Details \/ Answer":"Grilled Chicken Fajitas: Price is 1,170 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,170",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Cheese Quesadilla",
+    "Details \/ Answer":"Cheese Quesadilla: Price is 960 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"960",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Veggie Burrito",
+    "Details \/ Answer":"Veggie Burrito: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Burrito",
+    "Details \/ Answer":"Chicken Burrito: Price is 1,520 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,520",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Butter Chicken Korma",
+    "Details \/ Answer":"Butter Chicken Korma: Price is 1,420 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy.",
+    "Price_KES":"1,420",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Swahili Coconut Fish Curry",
+    "Details \/ Answer":"Swahili Coconut Fish Curry: Price is 1,580 KES, prep time is 15 mins, dietary info: Contains Fish.",
+    "Price_KES":"1,580",
+    "Tags_Dietary_Info":"Contains Fish",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Breaded Fish",
+    "Details \/ Answer":"Breaded Fish: Price is 1,580 KES, prep time is 15 mins, dietary info: Contains Fish.",
+    "Price_KES":"1,580",
+    "Tags_Dietary_Info":"Contains Fish",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Fish",
+    "Details \/ Answer":"Grilled Fish: Price is 1,630 KES, prep time is 15 mins, dietary info: Contains Fish.",
+    "Price_KES":"1,630",
+    "Tags_Dietary_Info":"Contains Fish",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"1\/4 Chicken and Chips",
+    "Details \/ Answer":"1\/4 Chicken and Chips: Price is 710 KES, prep time is 10 mins, dietary info: Contains Meat.",
+    "Price_KES":"710",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Homestyle Chicken Dhania",
+    "Details \/ Answer":"Homestyle Chicken Dhania: Price is 1,330 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,330",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken Breast",
+    "Details \/ Answer":"Grilled Chicken Breast: Price is 1,380 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,380",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Roast Half Chicken",
+    "Details \/ Answer":"Roast Half Chicken: Price is 1,510 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,510",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Teriyaki Chicken Stir Fry",
+    "Details \/ Answer":"Teriyaki Chicken Stir Fry: Price is 1,560 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Soy (sauce), May contain Vegetables.",
+    "Price_KES":"1,560",
+    "Tags_Dietary_Info":"Contains Meat, Contains Soy (sauce), May contain Vegetables",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Teriyaki Beef Stir Fry",
+    "Details \/ Answer":"Teriyaki Beef Stir Fry: Price is 1,560 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Soy (sauce), May contain Vegetables.",
+    "Price_KES":"1,560",
+    "Tags_Dietary_Info":"Contains Meat, Contains Soy (sauce), May contain Vegetables",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Fillet Steak",
+    "Details \/ Answer":"Grilled Fillet Steak: Price is 1,660 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,660",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mushroom Fillet Steak",
+    "Details \/ Answer":"Mushroom Fillet Steak: Price is 1,660 KES, prep time is 15 mins, dietary info: Contains Fish, Contains Dairy.",
+    "Price_KES":"1,660",
+    "Tags_Dietary_Info":"Contains Fish, Contains Dairy",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Pepper Steak",
+    "Details \/ Answer":"Pepper Steak: Price is 1,740 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,740",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Duo Star",
+    "Details \/ Answer":"Duo Star: Price is 1,450 KES, prep time is 15 mins, dietary info: Contains Meat (Beef & Chicken), Contains Soy (sauce), May contain Vegetables.",
+    "Price_KES":"1,450",
+    "Tags_Dietary_Info":"Contains Meat (Beef & Chicken), Contains Soy (sauce), May contain Vegetables",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"The Plot Chickens (BBQ Chicken Pizza)",
+    "Details \/ Answer":"The Plot Chickens (BBQ Chicken Pizza): Price is 1,120 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,120",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Hawaiian-Twist (Sweet & Sour Pineapple & Beef Sausage Pizza)",
+    "Details \/ Answer":"Hawaiian-Twist (Sweet & Sour Pineapple & Beef Sausage Pizza): Price is 1,120 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat, Contains Fruit (Pineapple).",
+    "Price_KES":"1,120",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat, Contains Fruit (Pineapple)",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Margherita Pizza",
+    "Details \/ Answer":"Margherita Pizza: Price is 1,010 KES, prep time is 15 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,010",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Steak Sensation Pizza",
+    "Details \/ Answer":"Steak Sensation Pizza: Price is 1,150 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",
+    "Price_KES":"1,150",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy, Contains Wheat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Egg and Cheese Burrito with Steak and Egg",
+    "Details \/ Answer":"Egg and Cheese Burrito with Steak and Egg: Price is 1,440 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",
+    "Price_KES":"1,440",
+    "Tags_Dietary_Info":"Contains Meat, Contains Eggs, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chips spiced or regular",
+    "Details \/ Answer":"Chips spiced or regular: Price is 430 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"430",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Potato Wedges spiced or regular",
+    "Details \/ Answer":"Potato Wedges spiced or regular: Price is 430 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"430",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chips Masala",
+    "Details \/ Answer":"Chips Masala: Price is 580 KES, prep time is 6 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"580",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":6.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mushroom Chips",
+    "Details \/ Answer":"Mushroom Chips: Price is 740 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chips & Beef Sausage",
+    "Details \/ Answer":"Chips & Beef Sausage: Price is 740 KES, prep time is 7 mins, dietary info: Contains Meat, Contains Dairy.",
+    "Price_KES":"740",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Loaded Fries",
+    "Details \/ Answer":"Loaded Fries: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy.",
+    "Price_KES":"1,260",
+    "Tags_Dietary_Info":"Contains Meat, Contains Dairy",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Steak Pie",
+    "Details \/ Answer":"Steak Pie: Price is 510 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"510",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Beef Sausage Roll",
+    "Details \/ Answer":"Beef Sausage Roll: Price is 520 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"520",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Hotdogs (Al a Carte)",
+    "Details \/ Answer":"Hotdogs (Al a Carte): Price is 700 KES, prep time is 7 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"700",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":7.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"2 Hotdogs with Chips",
+    "Details \/ Answer":"2 Hotdogs with Chips: Price is 860 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",
+    "Price_KES":"860",
+    "Tags_Dietary_Info":"Contains Meat, Contains Wheat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Wings 5 Pieces",
+    "Details \/ Answer":"Chicken Wings 5 Pieces: Price is 750 KES, prep time is 10 mins, dietary info: Contains Meat.",
+    "Price_KES":"750",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken Wings 10 Pieces",
+    "Details \/ Answer":"Chicken Wings 10 Pieces: Price is 1,170 KES, prep time is 15 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,170",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":15.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"California Garden Salad with spicy chicken",
+    "Details \/ Answer":"California Garden Salad with spicy chicken: Price is 1,100 KES, prep time is 10 mins, dietary info: Contains Meat, Vegetarian option.",
+    "Price_KES":"1,100",
+    "Tags_Dietary_Info":"Contains Meat, Vegetarian option",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Grilled Chicken Strip Salad with honey mustard dressing",
+    "Details \/ Answer":"Grilled Chicken Strip Salad with honey mustard dressing: Price is 1,120 KES, prep time is 12 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,120",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Spicy Thai Chicken Salad",
+    "Details \/ Answer":"Spicy Thai Chicken Salad: Price is 1,280 KES, prep time is 12 mins, dietary info: Contains Meat.",
+    "Price_KES":"1,280",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":12.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Apple, Carrot & Roasted Cashew Salad",
+    "Details \/ Answer":"Apple, Carrot & Roasted Cashew Salad: Price is 1,080 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Nuts.",
+    "Price_KES":"1,080",
+    "Tags_Dietary_Info":"Vegetarian, Contains Nuts",
+    "Estimated_Prep_Time_mins":10.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Add Chicken Breast (extra)",
+    "Details \/ Answer":"Add Chicken Breast (extra): Price is 450 KES, prep time is 5 mins, dietary info: Contains Meat.",
+    "Price_KES":"450",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Tea (Regular or Masala)",
+    "Details \/ Answer":"Tea (Regular or Masala): Price is 250 KES, prep time is 5 mins, dietary info: Vegetarian.",
+    "Price_KES":"250",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Americano",
+    "Details \/ Answer":"Americano: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian.",
+    "Price_KES":"350",
+    "Tags_Dietary_Info":"Vegetarian",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Latte",
+    "Details \/ Answer":"Latte: Price is 450 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"450",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Cappuccino",
+    "Details \/ Answer":"Cappuccino: Price is 300 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"300",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Small Fresh Juice",
+    "Details \/ Answer":"Small Fresh Juice: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"350",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":5.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Pineapple",
+    "Details \/ Answer":"Pineapple: Price is 160 KES, prep time is 1 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"160",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mozzarella or Halloumi Cheese",
+    "Details \/ Answer":"Mozzarella or Halloumi Cheese: Price is 230 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Dairy.",
+    "Price_KES":"230",
+    "Tags_Dietary_Info":"Vegetarian, Contains Dairy",
+    "Estimated_Prep_Time_mins":1.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Mushroom",
+    "Details \/ Answer":"Mushroom: Price is 270 KES, prep time is 2 mins, dietary info: Vegetarian, Vegan.",
+    "Price_KES":"270",
+    "Tags_Dietary_Info":"Vegetarian, Vegan",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Beef Sausage",
+    "Details \/ Answer":"Beef Sausage: Price is 340 KES, prep time is 2 mins, dietary info: Contains Meat.",
+    "Price_KES":"340",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Beef",
+    "Details \/ Answer":"Beef: Price is 430 KES, prep time is 2 mins, dietary info: Contains Meat.",
+    "Price_KES":"430",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"Menu",
+    "Name \/ Question":"Chicken",
+    "Details \/ Answer":"Chicken: Price is 430 KES, prep time is 2 mins, dietary info: Contains Meat.",
+    "Price_KES":"430",
+    "Tags_Dietary_Info":"Contains Meat",
+    "Estimated_Prep_Time_mins":2.0
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you accept M\u2011Pesa?",
+    "Details \/ Answer":"Yup, you can totally pay with M\u2011Pesa! We also take cards and cash.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there free WiFi?",
+    "Details \/ Answer":"Absolutely! Just ask our waiter for the WiFi password when you\u2019re seated.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have vegetarian or vegan options?",
+    "Details \/ Answer":"Sure do! Try our Veggie Burger, salads, or smoothies. We\u2019ve got a few vegan choices too.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you take reservations?",
+    "Details \/ Answer":"Yup! You can reserve a table by calling +254 722 123 456 or booking online.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there parking available?",
+    "Details \/ Answer":"Yes, there\u2019s some parking outside, plus street parking nearby.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What is the cancellation policy for reservations?",
+    "Details \/ Answer":"No problem! Just let us know at least 2 hours before your booking to cancel or reschedule.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I host a meeting there? \ud83d\ude0a",
+    "Details \/ Answer":"Sure! We\u2019ve got cozy corners perfect for meetings.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your signature coffee? \ud83d\ude0a",
+    "Details \/ Answer":"Our Java House Double Latte is a must\u2011try!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are pets allowed?",
+    "Details \/ Answer":"Sorry, not indoors \u2013 but our outdoor seating welcomes small pets.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book for a birthday party?",
+    "Details \/ Answer":"Absolutely! We love birthdays. Call ahead to reserve a section. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have sugar\u2011free drinks? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, we\u2019ve got sugar\u2011free juices and coffees on request.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have loyalty cards? \ud83d\ude0a",
+    "Details \/ Answer":"Yup! Earn points every time you dine with us.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have loyalty cards?",
+    "Details \/ Answer":"Yup! Earn points every time you dine with us.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order online?",
+    "Details \/ Answer":"Yup! You can order through Glovo, Uber Eats, or our website. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I charge my phone there? \ud83d\ude0a",
+    "Details \/ Answer":"Sure, there are charging outlets at most tables.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order online? \ud83d\ude0a",
+    "Details \/ Answer":"Yup! You can order through Glovo, Uber Eats, or our website.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I get takeaway? \ud83d\ude0a",
+    "Details \/ Answer":"Absolutely. Just ask for your meal to go!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pre\u2011order food for pickup?",
+    "Details \/ Answer":"Sure thing! Call ahead and we\u2019ll have it ready for you.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I customize my order?",
+    "Details \/ Answer":"Of course! Just let us know how you like it.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your most popular meal?",
+    "Details \/ Answer":"Our Classic Burger and Chicken Curry are crowd favorites!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer kids\u2019 meals?",
+    "Details \/ Answer":"Sure! We\u2019ve got mini burgers, fries, and milkshakes for the little ones.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you accept card payments? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, all major cards are accepted \u2013 Visa, MasterCard, and more.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pre\u2011order food for pickup? \ud83d\ude0a",
+    "Details \/ Answer":"Sure thing! Call ahead and we\u2019ll have it ready for you.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are pets allowed? \ud83d\ude0a",
+    "Details \/ Answer":"Sorry, not indoors \u2013 but our outdoor seating welcomes small pets.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have loyalty cards?",
+    "Details \/ Answer":"Yup! Earn points every time you dine with us. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer gift vouchers?",
+    "Details \/ Answer":"Yup, we do! Great idea for birthdays and anniversaries.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you recycle or use eco\u2011friendly packaging?",
+    "Details \/ Answer":"We do our best! Most of our packaging is recyclable or biodegradable. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer kids\u2019 meals? \ud83d\ude0a",
+    "Details \/ Answer":"Sure! We\u2019ve got mini burgers, fries, and milkshakes for the little ones.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer gift vouchers? \ud83d\ude0a",
+    "Details \/ Answer":"Yup, we do! Great idea for birthdays and anniversaries.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you accept card payments?",
+    "Details \/ Answer":"Yes, all major cards are accepted \u2013 Visa, MasterCard, and more.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve local dishes? \ud83d\ude0a",
+    "Details \/ Answer":"Yup! You\u2019ll find Kenyan favorites like nyama choma and ugali on special days. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pay with M\u2011Pesa?",
+    "Details \/ Answer":"Definitely! Just use our till number at checkout.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your signature coffee?",
+    "Details \/ Answer":"Our Java House Double Latte is a must\u2011try! We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have daily specials? \ud83d\ude0a",
+    "Details \/ Answer":"Yes! Check out our Lunch Boost and Coffee & Cake promos. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I customize my order? \ud83d\ude0a",
+    "Details \/ Answer":"Of course! Just let us know how you like it. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are pets allowed?",
+    "Details \/ Answer":"Sorry, not indoors \u2013 but our outdoor seating welcomes small pets. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order online?",
+    "Details \/ Answer":"Yup! You can order through Glovo, Uber Eats, or our website.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve breakfast?",
+    "Details \/ Answer":"Yes! We serve breakfast all day \u2013 from pancakes to omelets. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you give change in cash? \ud83d\ude0a",
+    "Details \/ Answer":"Yup, we do. Just ask your server if you need change.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is your food halal? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, most of our meats are halal certified.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve alcohol?",
+    "Details \/ Answer":"Nope, we\u2019re all about great coffee, smoothies, and milkshakes! We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you do catering? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, we cater for small and medium events around Nairobi.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve alcohol?",
+    "Details \/ Answer":"Nope, we\u2019re all about great coffee, smoothies, and milkshakes!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer student discounts?",
+    "Details \/ Answer":"Sometimes! Keep an eye on our social media for offers.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have daily specials? \ud83d\ude0a",
+    "Details \/ Answer":"Yes! Check out our Lunch Boost and Coffee & Cake promos.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I charge my phone there? \ud83d\ude0a",
+    "Details \/ Answer":"Sure, there are charging outlets at most tables. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have daily specials?",
+    "Details \/ Answer":"Yes! Check out our Lunch Boost and Coffee & Cake promos.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have daily specials?",
+    "Details \/ Answer":"Yes! Check out our Lunch Boost and Coffee & Cake promos. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have sugar\u2011free drinks?",
+    "Details \/ Answer":"Yes, we\u2019ve got sugar\u2011free juices and coffees on request.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer student discounts?",
+    "Details \/ Answer":"Sometimes! Keep an eye on our social media for offers. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer gift vouchers?",
+    "Details \/ Answer":"Yup, we do! Great idea for birthdays and anniversaries. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your most popular meal?",
+    "Details \/ Answer":"Our Classic Burger and Chicken Curry are crowd favorites! We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you give change in cash? \ud83d\ude0a",
+    "Details \/ Answer":"Yup, we do. Just ask your server if you need change. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you give change in cash?",
+    "Details \/ Answer":"Yup, we do. Just ask your server if you need change.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I customize my order? \ud83d\ude0a",
+    "Details \/ Answer":"Of course! Just let us know how you like it.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve breakfast?",
+    "Details \/ Answer":"Yes! We serve breakfast all day \u2013 from pancakes to omelets.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve alcohol? \ud83d\ude0a",
+    "Details \/ Answer":"Nope, we\u2019re all about great coffee, smoothies, and milkshakes!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you do deliveries?",
+    "Details \/ Answer":"Yes, we deliver through Uber Eats and Glovo around Nairobi.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I charge my phone there?",
+    "Details \/ Answer":"Sure, there are charging outlets at most tables.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is your food halal? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, most of our meats are halal certified. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve alcohol? \ud83d\ude0a",
+    "Details \/ Answer":"Nope, we\u2019re all about great coffee, smoothies, and milkshakes! We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your signature coffee?",
+    "Details \/ Answer":"Our Java House Double Latte is a must\u2011try!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book for a birthday party? \ud83d\ude0a",
+    "Details \/ Answer":"Absolutely! We love birthdays. Call ahead to reserve a section.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book for a birthday party?",
+    "Details \/ Answer":"Absolutely! We love birthdays. Call ahead to reserve a section.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have sugar\u2011free drinks?",
+    "Details \/ Answer":"Yes, we\u2019ve got sugar\u2011free juices and coffees on request. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I charge my phone there?",
+    "Details \/ Answer":"Sure, there are charging outlets at most tables. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve local dishes? \ud83d\ude0a",
+    "Details \/ Answer":"Yup! You\u2019ll find Kenyan favorites like nyama choma and ugali on special days.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is your food halal?",
+    "Details \/ Answer":"Yes, most of our meats are halal certified. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"What\u2019s your most popular meal? \ud83d\ude0a",
+    "Details \/ Answer":"Our Classic Burger and Chicken Curry are crowd favorites!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve local dishes?",
+    "Details \/ Answer":"Yup! You\u2019ll find Kenyan favorites like nyama choma and ugali on special days. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is your food halal?",
+    "Details \/ Answer":"Yes, most of our meats are halal certified.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have loyalty cards? \ud83d\ude0a",
+    "Details \/ Answer":"Yup! Earn points every time you dine with us. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pre\u2011order food for pickup?",
+    "Details \/ Answer":"Sure thing! Call ahead and we\u2019ll have it ready for you. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pre\u2011order food for pickup? \ud83d\ude0a",
+    "Details \/ Answer":"Sure thing! Call ahead and we\u2019ll have it ready for you. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you recycle or use eco\u2011friendly packaging? \ud83d\ude0a",
+    "Details \/ Answer":"We do our best! Most of our packaging is recyclable or biodegradable.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I get takeaway?",
+    "Details \/ Answer":"Absolutely. Just ask for your meal to go! We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you do catering?",
+    "Details \/ Answer":"Yes, we cater for small and medium events around Nairobi. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book for a birthday party? \ud83d\ude0a",
+    "Details \/ Answer":"Absolutely! We love birthdays. Call ahead to reserve a section. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pay with M\u2011Pesa? \ud83d\ude0a",
+    "Details \/ Answer":"Definitely! Just use our till number at checkout.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you do deliveries?",
+    "Details \/ Answer":"Yes, we deliver through Uber Eats and Glovo around Nairobi. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have sugar\u2011free drinks? \ud83d\ude0a",
+    "Details \/ Answer":"Yes, we\u2019ve got sugar\u2011free juices and coffees on request. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I customize my order?",
+    "Details \/ Answer":"Of course! Just let us know how you like it. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I get takeaway?",
+    "Details \/ Answer":"Absolutely. Just ask for your meal to go!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you do catering?",
+    "Details \/ Answer":"Yes, we cater for small and medium events around Nairobi.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer gift vouchers? \ud83d\ude0a",
+    "Details \/ Answer":"Yup, we do! Great idea for birthdays and anniversaries. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you recycle or use eco\u2011friendly packaging?",
+    "Details \/ Answer":"We do our best! Most of our packaging is recyclable or biodegradable.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you serve local dishes?",
+    "Details \/ Answer":"Yup! You\u2019ll find Kenyan favorites like nyama choma and ugali on special days.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer kids\u2019 meals?",
+    "Details \/ Answer":"Sure! We\u2019ve got mini burgers, fries, and milkshakes for the little ones. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pay with M\u2011Pesa? \ud83d\ude0a",
+    "Details \/ Answer":"Definitely! Just use our till number at checkout. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I host a meeting there? \ud83d\ude0a",
+    "Details \/ Answer":"Sure! We\u2019ve got cozy corners perfect for meetings. We\u2019ll be happy to help!",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have combo meals?",
+    "Details \/ Answer":"Yes! Check our Promotions sheet for current combo deals.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I get extra toppings on my burger?",
+    "Details \/ Answer":"Absolutely! Just tell our staff your preference.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have seasonal specials?",
+    "Details \/ Answer":"Yes, seasonal items are updated regularly in our Promotions sheet.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are there vegan desserts?",
+    "Details \/ Answer":"Yes, we have a few vegan-friendly desserts. Just ask our staff.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I request my coffee to be decaf?",
+    "Details \/ Answer":"Of course! All coffee drinks can be made decaf.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer birthday discounts?",
+    "Details \/ Answer":"Sometimes! Check our social media or ask our staff when booking.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pay via mobile banking other than M-Pesa?",
+    "Details \/ Answer":"Yes, we accept other mobile payments on request.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there a kids\u2019 menu for breakfast?",
+    "Details \/ Answer":"Yes! Mini pancakes and omelets are available for kids.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book a table for a large group?",
+    "Details \/ Answer":"Absolutely! Please call ahead to reserve for more than 6 people.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you provide utensils for takeaway orders?",
+    "Details \/ Answer":"Yes, all takeaway orders come with utensils and napkins.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I get my meal delivered outside Nairobi?",
+    "Details \/ Answer":"Currently, we deliver only within Nairobi through Glovo and Uber Eats.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer sugar-free dessert options?",
+    "Details \/ Answer":"Yes, ask our staff for sugar-free desserts available today.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pre-order drinks only?",
+    "Details \/ Answer":"Yes! You can pre-order beverages via phone or online.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there a quiet corner for working?",
+    "Details \/ Answer":"Yes, we have a few tables perfect for work or study.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I add extra cheese to my sandwich?",
+    "Details \/ Answer":"Sure! Just let us know how much extra you\u2019d like.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have healthy salad options?",
+    "Details \/ Answer":"Yes, we have a variety of fresh salads with optional protein.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I request a custom smoothie?",
+    "Details \/ Answer":"Absolutely! You can pick your fruits and add-ons.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there a loyalty app I can use?",
+    "Details \/ Answer":"Yes, our loyalty program is accessible via our website and app.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you provide catering for office meetings?",
+    "Details \/ Answer":"Yes, we cater for small and medium office events.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I make a reservation online?",
+    "Details \/ Answer":"Yes, reservations can be made through our website or mobile app.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are there nut-free options?",
+    "Details \/ Answer":"Yes, we can guide you to nut-free menu items.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I request a specific table?",
+    "Details \/ Answer":"Yes, please mention your preference when booking.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer seasonal coffee flavors?",
+    "Details \/ Answer":"Yes! Seasonal flavors are available; check our Promotions sheet.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there a happy hour?",
+    "Details \/ Answer":"Occasionally! Check our Promotions sheet or social media for details.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order a dessert platter?",
+    "Details \/ Answer":"Yes, dessert platters can be pre-ordered for parties or events.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you provide gluten-free bread?",
+    "Details \/ Answer":"Yes, gluten-free bread is available on request.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I gift someone a meal voucher?",
+    "Details \/ Answer":"Absolutely! Gift vouchers are available for all occasions.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have breakfast combos?",
+    "Details \/ Answer":"Yes, we have breakfast combos served all day.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order extra sides with my meal?",
+    "Details \/ Answer":"Of course! Extra sides can be added for an additional cost.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have takeaway packaging that is eco-friendly?",
+    "Details \/ Answer":"Yes, we use recyclable and biodegradable packaging where possible.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I pay via card without contact?",
+    "Details \/ Answer":"Yes, contactless card payments are accepted.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Are there any vegan drinks?",
+    "Details \/ Answer":"Yes, plant-based milk options are available for all drinks.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I request my food to be less spicy?",
+    "Details \/ Answer":"Absolutely! Just let us know your spice preference.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have breakfast pastries?",
+    "Details \/ Answer":"Yes! We serve croissants, muffins, and other pastries all day.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I book a table for tomorrow morning?",
+    "Details \/ Answer":"Yes, call or book online to reserve your table for tomorrow.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Is there wheelchair access?",
+    "Details \/ Answer":"Yes, our restaurant is wheelchair accessible.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer loyalty points for online orders?",
+    "Details \/ Answer":"Yes! Online and delivery orders earn loyalty points.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I order only drinks for delivery?",
+    "Details \/ Answer":"Yes, beverages can be ordered alone for delivery.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you offer catering for birthdays?",
+    "Details \/ Answer":"Yes, we provide catering packages for birthday parties.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Can I split the bill among friends?",
+    "Details \/ Answer":"Absolutely! Bills can be split across multiple payment methods.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"FAQ",
+    "Name \/ Question":"Do you have special meals for dietary restrictions?",
+    "Details \/ Answer":"Yes, we can accommodate many dietary needs\u2014just ask our staff.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Promotion",
+    "Name \/ Question":"Single Hot Beverage + Pastry",
+    "Details \/ Answer":"Hot drink + pastry",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Promotion",
+    "Name \/ Question":"2 for 1 Beef \/ Chicken Burger + Wedges",
+    "Details \/ Answer":"Buy 2 burgers + wedges, get discount",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Promotion",
+    "Name \/ Question":"Orange Cream Cake BOGOF",
+    "Details \/ Answer":"Buy one Orange Cream Cake, get the second one free \/ 50% off",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Promotion",
+    "Name \/ Question":"Java Loyalty\u2011App Points & Exclusive Offers",
+    "Details \/ Answer":"Earn points per spend, redeem for food & drinks",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Name",
+    "Details \/ Answer":"Java House",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Branch \/ Location",
+    "Details \/ Answer":"Lenana Road, Nairobi City, Nairobi County, Kenya",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Contact Phone",
+    "Details \/ Answer":"+254 722 123 456",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Opening Hours",
+    "Details \/ Answer":"Mon\u2013Sat: 07:00\u201320:30, Sun: 08:00\u201320:30",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Seating Type",
+    "Details \/ Answer":"Casual dining, family friendly",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  },
+  {
+    "Category":"Info",
+    "Name \/ Question":"Notes",
+    "Details \/ Answer":"Popular for coffee and all\u2011day meals; accepts card and M\u2011Pesa.",
+    "Price_KES":null,
+    "Tags_Dietary_Info":null,
+    "Estimated_Prep_Time_mins":null
+  }
+]

@@ -1,0 +1,284 @@
+Category,Name / Question,Details / Answer,Price_KES,Tags_Dietary_Info,Estimated_Prep_Time_mins
+Menu,Giant Beef Samosa,"Giant Beef Samosa: Price is 320 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Wheat.",320,"Contains Meat, Contains Wheat",8.0
+Menu,Chicken Pie,"Chicken Pie: Price is 350 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",350,"Contains Meat, Contains Wheat",10.0
+Menu,Classic Smash Burger,"Classic Smash Burger: Price is 1140 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",1140,"Contains Meat, Contains Dairy, Contains Wheat",15.0
+Menu,Veggie Burger,"Veggie Burger: Price is 780 KES, prep time is 15 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",780,"Vegetarian, Contains Dairy, Contains Wheat",15.0
+Menu,Chicken Quesadilla,"Chicken Quesadilla: Price is 1080 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",1080,"Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Java Special Chicken Curry,"Java Special Chicken Curry: Price is 1110 KES, prep time is 20 mins, dietary info: Contains Meat.",1110,Contains Meat,20.0
+Menu,Crispy Chicken Breast Salad,"Crispy Chicken Breast Salad: Price is 950 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Nuts.",950,"Contains Meat, Contains Nuts",12.0
+Menu,Chocolate Fudge Cake,"Chocolate Fudge Cake: Price is 480 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",480,"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",7.0
+Menu,Double Vanilla Latte,"Double Vanilla Latte: Price is 400 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",400,"Vegetarian, Contains Dairy",5.0
+Menu,Sweet Crepes Combo,"Sweet Crepes Combo: Price is 1,240 KES, prep time is 12 mins, dietary info: Contains Dairy, Contains Wheat, Contains Eggs.","1,240","Contains Dairy, Contains Wheat, Contains Eggs",12.0
+Menu,Fruit Salad (plain),"Fruit Salad (plain): Price is 550 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",550,"Vegetarian, Vegan",5.0
+Menu,"Fruit Salad with Yogurt, Honey & Nuts","Fruit Salad with Yogurt, Honey & Nuts: Price is 770 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Nuts, Contains Dairy, Contains Honey.",770,"Vegetarian, Contains Nuts, Contains Dairy, Contains Honey",5.0
+Menu,Hot Oatmeal Porridge Half Serve,"Hot Oatmeal Porridge Half Serve: Price is 360 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy, Contains Nuts.",360,"Vegetarian, Contains Dairy, Contains Nuts",5.0
+Menu,Hot Oatmeal Porridge Full Serve,"Hot Oatmeal Porridge Full Serve: Price is 750 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Dairy, Contains Nuts.",750,"Vegetarian, Contains Dairy, Contains Nuts",8.0
+Menu,Homemade Granola,"Homemade Granola: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Nuts.",350,"Vegetarian, Contains Nuts",5.0
+Menu,Homemade Granola with Yogurt & Honey/Grapes,"Homemade Granola with Yogurt & Honey/Grapes: Price is 740 KES, prep time is 6 mins, dietary info: Vegetarian, Contains Nuts, Contains Dairy, Contains Honey.",740,"Vegetarian, Contains Nuts, Contains Dairy, Contains Honey",6.0
+Menu,Al a Carte Sweet Crepes,"Al a Carte Sweet Crepes: Price is 300 KES, prep time is 7 mins, dietary info: Contains Dairy, Contains Wheat, Contains Eggs.",300,"Contains Dairy, Contains Wheat, Contains Eggs",7.0
+Menu,Single Fluffy Homemade Pancake,"Single Fluffy Homemade Pancake: Price is 380 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",380,"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",7.0
+Menu,Classic Pancakes,"Classic Pancakes: Price is 780 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",780,"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",10.0
+Menu,Pancakes Combo,"Pancakes Combo: Price is 1,070 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.","1,070","Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",12.0
+Menu,Al a Carte French Toast,"Al a Carte French Toast: Price is 620 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.",620,"Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",8.0
+Menu,French Toast Combo,"French Toast Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs.","1,260","Vegetarian, Contains Dairy, Contains Wheat, Contains Eggs",12.0
+Menu,Homefry Heaven,"Homefry Heaven: Price is 950 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy.",950,"Vegetarian, Contains Dairy",10.0
+Menu,Eggs The Way You Like,"Eggs The Way You Like: Price is 570 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",570,"Vegetarian, Contains Eggs, Contains Dairy",7.0
+Menu,Eggs The Way You Like with Chips/Homefries,"Eggs The Way You Like with Chips/Homefries: Price is 740 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",740,"Vegetarian, Contains Eggs, Contains Dairy",10.0
+Menu,Eggs The Way You Like with Beef Sausage,"Eggs The Way You Like with Beef Sausage: Price is 960 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",960,"Contains Meat, Contains Eggs, Contains Dairy",12.0
+Menu,Breakfast Sandwiches - Egg & Cheese,"Breakfast Sandwiches - Egg & Cheese: Price is 740 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",740,"Vegetarian, Contains Eggs, Contains Dairy",7.0
+Menu,Breakfast Sandwiches - Egg & Cheese with Beef Sausage,"Breakfast Sandwiches - Egg & Cheese with Beef Sausage: Price is 880 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",880,"Contains Meat, Contains Eggs, Contains Dairy",8.0
+Menu,Breakfast Sandwich Combo,"Breakfast Sandwich Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.","1,260","Contains Meat, Contains Eggs, Contains Dairy",12.0
+Menu,Egg & Veg Omelette Combo,"Egg & Veg Omelette Combo: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.","1,260","Vegetarian, Contains Eggs, Contains Dairy",12.0
+Menu,Breakfast Maxi Combo,"Breakfast Maxi Combo: Price is 1,260 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.","1,260","Contains Meat, Contains Eggs, Contains Dairy",15.0
+Menu,Steak and Eggs,"Steak and Eggs: Price is 1,260 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.","1,260","Contains Meat, Contains Eggs, Contains Dairy",15.0
+Menu,Full Java Breakfast Combo,"Full Java Breakfast Combo: Price is 1,360 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.","1,360","Contains Meat, Contains Eggs, Contains Dairy",15.0
+Menu,Egg & Cheese Burrito,"Egg & Cheese Burrito: Price is 1,030 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.","1,030","Vegetarian, Contains Eggs, Contains Dairy",12.0
+Menu,Omelette Plain,"Omelette Plain: Price is 740 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Eggs.",740,"Vegetarian, Contains Eggs",8.0
+Menu,Omelette Spanish,"Omelette Spanish: Price is 880 KES, prep time is 8 mins, dietary info: Vegetarian, Contains Eggs.",880,"Vegetarian, Contains Eggs",8.0
+Menu,"Omelette Mushroom, Basil & Cheese","Omelette Mushroom, Basil & Cheese: Price is 980 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy.",980,"Vegetarian, Contains Eggs, Contains Dairy",10.0
+Menu,Omelette Denver,"Omelette Denver: Price is 980 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.",980,"Contains Meat, Contains Eggs, Contains Dairy",10.0
+Menu,Build Your Own Omelette - Cheese,"Build Your Own Omelette - Cheese: Price is 230 KES, prep time is 2 mins, dietary info: Vegetarian.",230,Vegetarian,2.0
+Menu,Build Your Own Omelette - Beef Sausage,"Build Your Own Omelette - Beef Sausage: Price is 340 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Eggs.",340,"Vegetarian, Contains Eggs",2.0
+Menu,Build Your Own Omelette - Tomato,"Build Your Own Omelette - Tomato: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Tomato.",70,"Vegetarian, Contains Eggs, Contains Dairy, Contains Tomato",1.0
+Menu,Build Your Own Omelette - Onions,"Build Your Own Omelette - Onions: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Onion.",70,"Vegetarian, Contains Eggs, Contains Dairy, Contains Onion",1.0
+Menu,Build Your Own Omelette - Bell Pepper,"Build Your Own Omelette - Bell Pepper: Price is 70 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Eggs, Contains Dairy, Contains Bell Pepper.",70,"Vegetarian, Contains Eggs, Contains Dairy, Contains Bell Pepper",1.0
+Menu,Build Your Own Omelette - Mushrooms,"Build Your Own Omelette - Mushrooms: Price is 210 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Dairy, Contains Eggs, Contains Mushrooms.",210,"Vegetarian, Contains Dairy, Contains Eggs, Contains Mushrooms",2.0
+Menu,Baked Beans,"Baked Beans: Price is 180 KES, prep time is 5 mins, dietary info: Vegetarian.",180,Vegetarian,5.0
+Menu,One Egg,"One Egg: Price is 190 KES, prep time is 3 mins, dietary info: Vegetarian, Contains Eggs.",190,"Vegetarian, Contains Eggs",3.0
+Menu,Salsa,"Salsa: Price is 190 KES, prep time is 2 mins, dietary info: Vegetarian.",190,Vegetarian,2.0
+Menu,Toast,"Toast: Price is 190 KES, prep time is 2 mins, dietary info: Vegetarian, Contains Wheat.",190,"Vegetarian, Contains Wheat",2.0
+Menu,Honey Peanuts,"Honey Peanuts: Price is 230 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Nuts, Contains Honey.",230,"Vegetarian, Contains Nuts, Contains Honey",1.0
+Menu,Guacamole,"Guacamole: Price is 230 KES, prep time is 3 mins, dietary info: Vegetarian, Vegan.",230,"Vegetarian, Vegan",3.0
+Menu,Parsley Wedges,"Parsley Wedges: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",310,"Vegetarian, Vegan",5.0
+Menu,Homefries,"Homefries: Price is 320 KES, prep time is 7 mins, dietary info: Vegetarian, Vegan.",320,"Vegetarian, Vegan",7.0
+Menu,Sukumawiki,"Sukumawiki: Price is 360 KES, prep time is 7 mins, dietary info: Vegetarian, Vegan.",360,"Vegetarian, Vegan",7.0
+Menu,Cashew Nuts,"Cashew Nuts: Price is 390 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Nuts.",390,"Vegetarian, Contains Nuts",1.0
+Menu,2 Beef Sausages,"2 Beef Sausages: Price is 430 KES, prep time is 5 mins, dietary info: Contains Meat.",430,Contains Meat,5.0
+Menu,Grilled Onions,"Grilled Onions: Price is 150 KES, prep time is 3 mins, dietary info: ,Vegeterian,Contains Onions.",150,",Vegeterian,Contains Onions",3.0
+Menu,Avocado,"Avocado: Price is 170 KES, prep time is 2 mins, dietary info: Vegetarian.",170,Vegetarian,2.0
+Menu,Charred Bell Peppers,"Charred Bell Peppers: Price is 180 KES, prep time is 3 mins, dietary info: Vegeterian,Contains Bell Peppers.",180,"Vegeterian,Contains Bell Peppers",3.0
+Menu,Mushroom Sauce,"Mushroom Sauce: Price is 210 KES, prep time is 3 mins, dietary info: Vegetarian, Vegan.",210,"Vegetarian, Vegan",3.0
+Menu,Gherkins,"Gherkins: Price is 220 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Dairy.",220,"Vegetarian, Contains Dairy",1.0
+Menu,Cheese,"Cheese: Price is 220 KES, prep time is 1 mins, dietary info: Vegetarian, Vegan.",220,"Vegetarian, Vegan",1.0
+Menu,Chapati (2),"Chapati (2): Price is 270 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan, Contains Wheat.",270,"Vegetarian, Vegan, Contains Wheat",5.0
+Menu,Mashed Potatoes,"Mashed Potatoes: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",310,"Vegetarian, Contains Dairy",5.0
+Menu,White Rice,"White Rice: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",310,"Vegetarian, Vegan",5.0
+Menu,Mexican Beans,"Mexican Beans: Price is 310 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",310,"Vegetarian, Vegan",5.0
+Menu,Stir Fried Rice,"Stir Fried Rice: Price is 320 KES, prep time is 6 mins, dietary info: Vegetarian, May contain Eggs/Dairy depending on recipe.",320,"Vegetarian, May contain Eggs/Dairy depending on recipe",6.0
+Menu,Mexican Rice,"Mexican Rice: Price is 320 KES, prep time is 6 mins, dietary info: Vegetarian, Vegan.",320,"Vegetarian, Vegan",6.0
+Menu,Steamed Vegetables,"Steamed Vegetables: Price is 360 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",360,"Vegetarian, Vegan",5.0
+Menu,Crunchy Chicken Strip Wrap,"Crunchy Chicken Strip Wrap: Price is 1,140 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,140","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Halloumi & Avocado Wrap,"Halloumi & Avocado Wrap: Price is 1,050 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,050","Vegetarian, Contains Dairy, Contains Wheat",10.0
+Menu,Chicken Fajita Wrap,"Chicken Fajita Wrap: Price is 1,190 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,190","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,California Chicken Wrap,"California Chicken Wrap: Price is 1,190 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,190","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,BBQ Chicken & Cheese Wrap,"BBQ Chicken & Cheese Wrap: Price is 1,160 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,160","Vegetarian, Contains Dairy, Contains Wheat",12.0
+Menu,Grilled Cheese Sandwich,"Grilled Cheese Sandwich: Price is 880 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",880,"Vegetarian, Contains Dairy, Contains Wheat",7.0
+Menu,"Avocado, Cheese & Tomato Sandwich","Avocado, Cheese & Tomato Sandwich: Price is 890 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.",890,"Vegetarian, Contains Dairy, Contains Wheat",7.0
+Menu,Chicken & Cheese Sandwich,"Chicken & Cheese Sandwich: Price is 890 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",890,"Contains Meat, Contains Dairy, Contains Wheat",8.0
+Menu,BBQ Chicken Club,"BBQ Chicken Club: Price is 890 KES, prep time is 8 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",890,"Contains Meat, Contains Dairy, Contains Wheat",8.0
+Menu,Vegetable & Halloumi Panini,"Vegetable & Halloumi Panini: Price is 1,070 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,070","Vegetarian, Contains Dairy, Contains Wheat",10.0
+Menu,Grilled Veggie Sandwich with Red Pepper Spread,"Grilled Veggie Sandwich with Red Pepper Spread: Price is 1,080 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,080","Vegetarian, Contains Dairy, Contains Wheat",10.0
+Menu,Grilled Chicken & Sundried Tomato Sandwich,"Grilled Chicken & Sundried Tomato Sandwich: Price is 1,200 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,200","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Cheesy Chicken & Mushroom Sandwich,"Cheesy Chicken & Mushroom Sandwich: Price is 1,240 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,240","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Triple Decker Sandwich,"Triple Decker Sandwich: Price is 1,280 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,280","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Java Lunch Combo,"Java Lunch Combo: Price is 1,440 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat (plus sides: soup, chips, salad, or vegetables).","1,440","Contains Meat, Contains Dairy, Contains Wheat (plus sides: soup, chips, salad, or vegetables)",15.0
+Menu,Umami Burger,"Umami Burger: Price is 1,340 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,340","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Hawaiian Caramelized Onion Burger,"Hawaiian Caramelized Onion Burger: Price is 1,340 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,340","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Ben’s Burger,"Ben’s Burger: Price is 1,360 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,360","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Double-Double Burger,"Double-Double Burger: Price is 1,670 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,670","Contains Meat, Contains Dairy, Contains Wheat",15.0
+Menu,Grilled Chicken Burger,"Grilled Chicken Burger: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,260","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Crunchy Chicken Burger,"Crunchy Chicken Burger: Price is 1,290 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,290","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Grilled Chicken Cheese Burger,"Grilled Chicken Cheese Burger: Price is 1,300 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,300","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Veggie Cheese Burger,"Veggie Cheese Burger: Price is 1,120 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,120","Vegetarian, Contains Dairy, Contains Wheat",12.0
+Menu,Grilled Chicken Fajitas,"Grilled Chicken Fajitas: Price is 1,170 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,170","Contains Meat, Contains Dairy, Contains Wheat",12.0
+Menu,Cheese Quesadilla,"Cheese Quesadilla: Price is 960 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.",960,"Contains Meat, Contains Dairy, Contains Wheat",10.0
+Menu,Veggie Burrito,"Veggie Burrito: Price is 1,260 KES, prep time is 12 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,260","Vegetarian, Contains Dairy, Contains Wheat",12.0
+Menu,Chicken Burrito,"Chicken Burrito: Price is 1,520 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,520","Contains Meat, Contains Dairy, Contains Wheat",15.0
+Menu,Butter Chicken Korma,"Butter Chicken Korma: Price is 1,420 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy.","1,420","Contains Meat, Contains Dairy",15.0
+Menu,Swahili Coconut Fish Curry,"Swahili Coconut Fish Curry: Price is 1,580 KES, prep time is 15 mins, dietary info: Contains Fish.","1,580",Contains Fish,15.0
+Menu,Breaded Fish,"Breaded Fish: Price is 1,580 KES, prep time is 15 mins, dietary info: Contains Fish.","1,580",Contains Fish,15.0
+Menu,Grilled Fish,"Grilled Fish: Price is 1,630 KES, prep time is 15 mins, dietary info: Contains Fish.","1,630",Contains Fish,15.0
+Menu,1/4 Chicken and Chips,"1/4 Chicken and Chips: Price is 710 KES, prep time is 10 mins, dietary info: Contains Meat.",710,Contains Meat,10.0
+Menu,Homestyle Chicken Dhania,"Homestyle Chicken Dhania: Price is 1,330 KES, prep time is 15 mins, dietary info: Contains Meat.","1,330",Contains Meat,15.0
+Menu,Grilled Chicken Breast,"Grilled Chicken Breast: Price is 1,380 KES, prep time is 15 mins, dietary info: Contains Meat.","1,380",Contains Meat,15.0
+Menu,Roast Half Chicken,"Roast Half Chicken: Price is 1,510 KES, prep time is 15 mins, dietary info: Contains Meat.","1,510",Contains Meat,15.0
+Menu,Teriyaki Chicken Stir Fry,"Teriyaki Chicken Stir Fry: Price is 1,560 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Soy (sauce), May contain Vegetables.","1,560","Contains Meat, Contains Soy (sauce), May contain Vegetables",15.0
+Menu,Teriyaki Beef Stir Fry,"Teriyaki Beef Stir Fry: Price is 1,560 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Soy (sauce), May contain Vegetables.","1,560","Contains Meat, Contains Soy (sauce), May contain Vegetables",15.0
+Menu,Grilled Fillet Steak,"Grilled Fillet Steak: Price is 1,660 KES, prep time is 15 mins, dietary info: Contains Meat.","1,660",Contains Meat,15.0
+Menu,Mushroom Fillet Steak,"Mushroom Fillet Steak: Price is 1,660 KES, prep time is 15 mins, dietary info: Contains Fish, Contains Dairy.","1,660","Contains Fish, Contains Dairy",15.0
+Menu,Pepper Steak,"Pepper Steak: Price is 1,740 KES, prep time is 15 mins, dietary info: Contains Meat.","1,740",Contains Meat,15.0
+Menu,Duo Star,"Duo Star: Price is 1,450 KES, prep time is 15 mins, dietary info: Contains Meat (Beef & Chicken), Contains Soy (sauce), May contain Vegetables.","1,450","Contains Meat (Beef & Chicken), Contains Soy (sauce), May contain Vegetables",15.0
+Menu,The Plot Chickens (BBQ Chicken Pizza),"The Plot Chickens (BBQ Chicken Pizza): Price is 1,120 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,120","Contains Meat, Contains Dairy, Contains Wheat",15.0
+Menu,Hawaiian-Twist (Sweet & Sour Pineapple & Beef Sausage Pizza),"Hawaiian-Twist (Sweet & Sour Pineapple & Beef Sausage Pizza): Price is 1,120 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat, Contains Fruit (Pineapple).","1,120","Contains Meat, Contains Dairy, Contains Wheat, Contains Fruit (Pineapple)",15.0
+Menu,Margherita Pizza,"Margherita Pizza: Price is 1,010 KES, prep time is 15 mins, dietary info: Vegetarian, Contains Dairy, Contains Wheat.","1,010","Vegetarian, Contains Dairy, Contains Wheat",15.0
+Menu,Steak Sensation Pizza,"Steak Sensation Pizza: Price is 1,150 KES, prep time is 15 mins, dietary info: Contains Meat, Contains Dairy, Contains Wheat.","1,150","Contains Meat, Contains Dairy, Contains Wheat",15.0
+Menu,Egg and Cheese Burrito with Steak and Egg,"Egg and Cheese Burrito with Steak and Egg: Price is 1,440 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Eggs, Contains Dairy.","1,440","Contains Meat, Contains Eggs, Contains Dairy",12.0
+Menu,Chips spiced or regular,"Chips spiced or regular: Price is 430 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",430,"Vegetarian, Vegan",5.0
+Menu,Potato Wedges spiced or regular,"Potato Wedges spiced or regular: Price is 430 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",430,"Vegetarian, Vegan",5.0
+Menu,Chips Masala,"Chips Masala: Price is 580 KES, prep time is 6 mins, dietary info: Vegetarian, Vegan.",580,"Vegetarian, Vegan",6.0
+Menu,Mushroom Chips,"Mushroom Chips: Price is 740 KES, prep time is 7 mins, dietary info: Vegetarian, Contains Dairy.",740,"Vegetarian, Contains Dairy",7.0
+Menu,Chips & Beef Sausage,"Chips & Beef Sausage: Price is 740 KES, prep time is 7 mins, dietary info: Contains Meat, Contains Dairy.",740,"Contains Meat, Contains Dairy",7.0
+Menu,Loaded Fries,"Loaded Fries: Price is 1,260 KES, prep time is 12 mins, dietary info: Contains Meat, Contains Dairy.","1,260","Contains Meat, Contains Dairy",12.0
+Menu,Steak Pie,"Steak Pie: Price is 510 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",510,"Contains Meat, Contains Wheat",10.0
+Menu,Beef Sausage Roll,"Beef Sausage Roll: Price is 520 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",520,"Contains Meat, Contains Wheat",10.0
+Menu,Hotdogs (Al a Carte),"Hotdogs (Al a Carte): Price is 700 KES, prep time is 7 mins, dietary info: Contains Meat, Contains Wheat.",700,"Contains Meat, Contains Wheat",7.0
+Menu,2 Hotdogs with Chips,"2 Hotdogs with Chips: Price is 860 KES, prep time is 10 mins, dietary info: Contains Meat, Contains Wheat.",860,"Contains Meat, Contains Wheat",10.0
+Menu,Chicken Wings 5 Pieces,"Chicken Wings 5 Pieces: Price is 750 KES, prep time is 10 mins, dietary info: Contains Meat.",750,Contains Meat,10.0
+Menu,Chicken Wings 10 Pieces,"Chicken Wings 10 Pieces: Price is 1,170 KES, prep time is 15 mins, dietary info: Contains Meat.","1,170",Contains Meat,15.0
+Menu,California Garden Salad with spicy chicken,"California Garden Salad with spicy chicken: Price is 1,100 KES, prep time is 10 mins, dietary info: Contains Meat, Vegetarian option.","1,100","Contains Meat, Vegetarian option",10.0
+Menu,Grilled Chicken Strip Salad with honey mustard dressing,"Grilled Chicken Strip Salad with honey mustard dressing: Price is 1,120 KES, prep time is 12 mins, dietary info: Contains Meat.","1,120",Contains Meat,12.0
+Menu,Spicy Thai Chicken Salad,"Spicy Thai Chicken Salad: Price is 1,280 KES, prep time is 12 mins, dietary info: Contains Meat.","1,280",Contains Meat,12.0
+Menu,"Apple, Carrot & Roasted Cashew Salad","Apple, Carrot & Roasted Cashew Salad: Price is 1,080 KES, prep time is 10 mins, dietary info: Vegetarian, Contains Nuts.","1,080","Vegetarian, Contains Nuts",10.0
+Menu,Add Chicken Breast (extra),"Add Chicken Breast (extra): Price is 450 KES, prep time is 5 mins, dietary info: Contains Meat.",450,Contains Meat,5.0
+Menu,Tea (Regular or Masala),"Tea (Regular or Masala): Price is 250 KES, prep time is 5 mins, dietary info: Vegetarian.",250,Vegetarian,5.0
+Menu,Americano,"Americano: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian.",350,Vegetarian,5.0
+Menu,Latte,"Latte: Price is 450 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",450,"Vegetarian, Contains Dairy",5.0
+Menu,Cappuccino,"Cappuccino: Price is 300 KES, prep time is 5 mins, dietary info: Vegetarian, Contains Dairy.",300,"Vegetarian, Contains Dairy",5.0
+Menu,Small Fresh Juice,"Small Fresh Juice: Price is 350 KES, prep time is 5 mins, dietary info: Vegetarian, Vegan.",350,"Vegetarian, Vegan",5.0
+Menu,Pineapple,"Pineapple: Price is 160 KES, prep time is 1 mins, dietary info: Vegetarian, Vegan.",160,"Vegetarian, Vegan",1.0
+Menu,Mozzarella or Halloumi Cheese,"Mozzarella or Halloumi Cheese: Price is 230 KES, prep time is 1 mins, dietary info: Vegetarian, Contains Dairy.",230,"Vegetarian, Contains Dairy",1.0
+Menu,Mushroom,"Mushroom: Price is 270 KES, prep time is 2 mins, dietary info: Vegetarian, Vegan.",270,"Vegetarian, Vegan",2.0
+Menu,Beef Sausage,"Beef Sausage: Price is 340 KES, prep time is 2 mins, dietary info: Contains Meat.",340,Contains Meat,2.0
+Menu,Beef,"Beef: Price is 430 KES, prep time is 2 mins, dietary info: Contains Meat.",430,Contains Meat,2.0
+Menu,Chicken,"Chicken: Price is 430 KES, prep time is 2 mins, dietary info: Contains Meat.",430,Contains Meat,2.0
+FAQ,Do you accept M‑Pesa?,"Yup, you can totally pay with M‑Pesa! We also take cards and cash.",,,
+FAQ,Is there free WiFi?,Absolutely! Just ask our waiter for the WiFi password when you’re seated.,,,
+FAQ,Do you have vegetarian or vegan options?,"Sure do! Try our Veggie Burger, salads, or smoothies. We’ve got a few vegan choices too.",,,
+FAQ,Do you take reservations?,Yup! You can reserve a table by calling +254 722 123 456 or booking online.,,,
+FAQ,Is there parking available?,"Yes, there’s some parking outside, plus street parking nearby.",,,
+FAQ,What is the cancellation policy for reservations?,No problem! Just let us know at least 2 hours before your booking to cancel or reschedule.,,,
+FAQ,Can I host a meeting there? 😊,Sure! We’ve got cozy corners perfect for meetings.,,,
+FAQ,What’s your signature coffee? 😊,Our Java House Double Latte is a must‑try!,,,
+FAQ,Are pets allowed?,"Sorry, not indoors – but our outdoor seating welcomes small pets.",,,
+FAQ,Can I book for a birthday party?,Absolutely! We love birthdays. Call ahead to reserve a section. We’ll be happy to help!,,,
+FAQ,Do you have sugar‑free drinks? 😊,"Yes, we’ve got sugar‑free juices and coffees on request.",,,
+FAQ,Do you have loyalty cards? 😊,Yup! Earn points every time you dine with us.,,,
+FAQ,Do you have loyalty cards?,Yup! Earn points every time you dine with us.,,,
+FAQ,Can I order online?,"Yup! You can order through Glovo, Uber Eats, or our website. We’ll be happy to help!",,,
+FAQ,Can I charge my phone there? 😊,"Sure, there are charging outlets at most tables.",,,
+FAQ,Can I order online? 😊,"Yup! You can order through Glovo, Uber Eats, or our website.",,,
+FAQ,Can I get takeaway? 😊,Absolutely. Just ask for your meal to go!,,,
+FAQ,Can I pre‑order food for pickup?,Sure thing! Call ahead and we’ll have it ready for you.,,,
+FAQ,Can I customize my order?,Of course! Just let us know how you like it.,,,
+FAQ,What’s your most popular meal?,Our Classic Burger and Chicken Curry are crowd favorites!,,,
+FAQ,Do you offer kids’ meals?,"Sure! We’ve got mini burgers, fries, and milkshakes for the little ones.",,,
+FAQ,Do you accept card payments? 😊,"Yes, all major cards are accepted – Visa, MasterCard, and more.",,,
+FAQ,Can I pre‑order food for pickup? 😊,Sure thing! Call ahead and we’ll have it ready for you.,,,
+FAQ,Are pets allowed? 😊,"Sorry, not indoors – but our outdoor seating welcomes small pets.",,,
+FAQ,Do you have loyalty cards?,Yup! Earn points every time you dine with us. We’ll be happy to help!,,,
+FAQ,Do you offer gift vouchers?,"Yup, we do! Great idea for birthdays and anniversaries.",,,
+FAQ,Do you recycle or use eco‑friendly packaging?,We do our best! Most of our packaging is recyclable or biodegradable. We’ll be happy to help!,,,
+FAQ,Do you offer kids’ meals? 😊,"Sure! We’ve got mini burgers, fries, and milkshakes for the little ones.",,,
+FAQ,Do you offer gift vouchers? 😊,"Yup, we do! Great idea for birthdays and anniversaries.",,,
+FAQ,Do you accept card payments?,"Yes, all major cards are accepted – Visa, MasterCard, and more.",,,
+FAQ,Do you serve local dishes? 😊,Yup! You’ll find Kenyan favorites like nyama choma and ugali on special days. We’ll be happy to help!,,,
+FAQ,Can I pay with M‑Pesa?,Definitely! Just use our till number at checkout.,,,
+FAQ,What’s your signature coffee?,Our Java House Double Latte is a must‑try! We’ll be happy to help!,,,
+FAQ,Do you have daily specials? 😊,Yes! Check out our Lunch Boost and Coffee & Cake promos. We’ll be happy to help!,,,
+FAQ,Can I customize my order? 😊,Of course! Just let us know how you like it. We’ll be happy to help!,,,
+FAQ,Are pets allowed?,"Sorry, not indoors – but our outdoor seating welcomes small pets. We’ll be happy to help!",,,
+FAQ,Can I order online?,"Yup! You can order through Glovo, Uber Eats, or our website.",,,
+FAQ,Do you serve breakfast?,Yes! We serve breakfast all day – from pancakes to omelets. We’ll be happy to help!,,,
+FAQ,Do you give change in cash? 😊,"Yup, we do. Just ask your server if you need change.",,,
+FAQ,Is your food halal? 😊,"Yes, most of our meats are halal certified.",,,
+FAQ,Do you serve alcohol?,"Nope, we’re all about great coffee, smoothies, and milkshakes! We’ll be happy to help!",,,
+FAQ,Do you do catering? 😊,"Yes, we cater for small and medium events around Nairobi.",,,
+FAQ,Do you serve alcohol?,"Nope, we’re all about great coffee, smoothies, and milkshakes!",,,
+FAQ,Do you offer student discounts?,Sometimes! Keep an eye on our social media for offers.,,,
+FAQ,Do you have daily specials? 😊,Yes! Check out our Lunch Boost and Coffee & Cake promos.,,,
+FAQ,Can I charge my phone there? 😊,"Sure, there are charging outlets at most tables. We’ll be happy to help!",,,
+FAQ,Do you have daily specials?,Yes! Check out our Lunch Boost and Coffee & Cake promos.,,,
+FAQ,Do you have daily specials?,Yes! Check out our Lunch Boost and Coffee & Cake promos. We’ll be happy to help!,,,
+FAQ,Do you have sugar‑free drinks?,"Yes, we’ve got sugar‑free juices and coffees on request.",,,
+FAQ,Do you offer student discounts?,Sometimes! Keep an eye on our social media for offers. We’ll be happy to help!,,,
+FAQ,Do you offer gift vouchers?,"Yup, we do! Great idea for birthdays and anniversaries. We’ll be happy to help!",,,
+FAQ,What’s your most popular meal?,Our Classic Burger and Chicken Curry are crowd favorites! We’ll be happy to help!,,,
+FAQ,Do you give change in cash? 😊,"Yup, we do. Just ask your server if you need change. We’ll be happy to help!",,,
+FAQ,Do you give change in cash?,"Yup, we do. Just ask your server if you need change.",,,
+FAQ,Can I customize my order? 😊,Of course! Just let us know how you like it.,,,
+FAQ,Do you serve breakfast?,Yes! We serve breakfast all day – from pancakes to omelets.,,,
+FAQ,Do you serve alcohol? 😊,"Nope, we’re all about great coffee, smoothies, and milkshakes!",,,
+FAQ,Do you do deliveries?,"Yes, we deliver through Uber Eats and Glovo around Nairobi.",,,
+FAQ,Can I charge my phone there?,"Sure, there are charging outlets at most tables.",,,
+FAQ,Is your food halal? 😊,"Yes, most of our meats are halal certified. We’ll be happy to help!",,,
+FAQ,Do you serve alcohol? 😊,"Nope, we’re all about great coffee, smoothies, and milkshakes! We’ll be happy to help!",,,
+FAQ,What’s your signature coffee?,Our Java House Double Latte is a must‑try!,,,
+FAQ,Can I book for a birthday party? 😊,Absolutely! We love birthdays. Call ahead to reserve a section.,,,
+FAQ,Can I book for a birthday party?,Absolutely! We love birthdays. Call ahead to reserve a section.,,,
+FAQ,Do you have sugar‑free drinks?,"Yes, we’ve got sugar‑free juices and coffees on request. We’ll be happy to help!",,,
+FAQ,Can I charge my phone there?,"Sure, there are charging outlets at most tables. We’ll be happy to help!",,,
+FAQ,Do you serve local dishes? 😊,Yup! You’ll find Kenyan favorites like nyama choma and ugali on special days.,,,
+FAQ,Is your food halal?,"Yes, most of our meats are halal certified. We’ll be happy to help!",,,
+FAQ,What’s your most popular meal? 😊,Our Classic Burger and Chicken Curry are crowd favorites!,,,
+FAQ,Do you serve local dishes?,Yup! You’ll find Kenyan favorites like nyama choma and ugali on special days. We’ll be happy to help!,,,
+FAQ,Is your food halal?,"Yes, most of our meats are halal certified.",,,
+FAQ,Do you have loyalty cards? 😊,Yup! Earn points every time you dine with us. We’ll be happy to help!,,,
+FAQ,Can I pre‑order food for pickup?,Sure thing! Call ahead and we’ll have it ready for you. We’ll be happy to help!,,,
+FAQ,Can I pre‑order food for pickup? 😊,Sure thing! Call ahead and we’ll have it ready for you. We’ll be happy to help!,,,
+FAQ,Do you recycle or use eco‑friendly packaging? 😊,We do our best! Most of our packaging is recyclable or biodegradable.,,,
+FAQ,Can I get takeaway?,Absolutely. Just ask for your meal to go! We’ll be happy to help!,,,
+FAQ,Do you do catering?,"Yes, we cater for small and medium events around Nairobi. We’ll be happy to help!",,,
+FAQ,Can I book for a birthday party? 😊,Absolutely! We love birthdays. Call ahead to reserve a section. We’ll be happy to help!,,,
+FAQ,Can I pay with M‑Pesa? 😊,Definitely! Just use our till number at checkout.,,,
+FAQ,Do you do deliveries?,"Yes, we deliver through Uber Eats and Glovo around Nairobi. We’ll be happy to help!",,,
+FAQ,Do you have sugar‑free drinks? 😊,"Yes, we’ve got sugar‑free juices and coffees on request. We’ll be happy to help!",,,
+FAQ,Can I customize my order?,Of course! Just let us know how you like it. We’ll be happy to help!,,,
+FAQ,Can I get takeaway?,Absolutely. Just ask for your meal to go!,,,
+FAQ,Do you do catering?,"Yes, we cater for small and medium events around Nairobi.",,,
+FAQ,Do you offer gift vouchers? 😊,"Yup, we do! Great idea for birthdays and anniversaries. We’ll be happy to help!",,,
+FAQ,Do you recycle or use eco‑friendly packaging?,We do our best! Most of our packaging is recyclable or biodegradable.,,,
+FAQ,Do you serve local dishes?,Yup! You’ll find Kenyan favorites like nyama choma and ugali on special days.,,,
+FAQ,Do you offer kids’ meals?,"Sure! We’ve got mini burgers, fries, and milkshakes for the little ones. We’ll be happy to help!",,,
+FAQ,Can I pay with M‑Pesa? 😊,Definitely! Just use our till number at checkout. We’ll be happy to help!,,,
+FAQ,Can I host a meeting there? 😊,Sure! We’ve got cozy corners perfect for meetings. We’ll be happy to help!,,,
+FAQ,Do you have combo meals?,Yes! Check our Promotions sheet for current combo deals.,,,
+FAQ,Can I get extra toppings on my burger?,Absolutely! Just tell our staff your preference.,,,
+FAQ,Do you have seasonal specials?,"Yes, seasonal items are updated regularly in our Promotions sheet.",,,
+FAQ,Are there vegan desserts?,"Yes, we have a few vegan-friendly desserts. Just ask our staff.",,,
+FAQ,Can I request my coffee to be decaf?,Of course! All coffee drinks can be made decaf.,,,
+FAQ,Do you offer birthday discounts?,Sometimes! Check our social media or ask our staff when booking.,,,
+FAQ,Can I pay via mobile banking other than M-Pesa?,"Yes, we accept other mobile payments on request.",,,
+FAQ,Is there a kids’ menu for breakfast?,Yes! Mini pancakes and omelets are available for kids.,,,
+FAQ,Can I book a table for a large group?,Absolutely! Please call ahead to reserve for more than 6 people.,,,
+FAQ,Do you provide utensils for takeaway orders?,"Yes, all takeaway orders come with utensils and napkins.",,,
+FAQ,Can I get my meal delivered outside Nairobi?,"Currently, we deliver only within Nairobi through Glovo and Uber Eats.",,,
+FAQ,Do you offer sugar-free dessert options?,"Yes, ask our staff for sugar-free desserts available today.",,,
+FAQ,Can I pre-order drinks only?,Yes! You can pre-order beverages via phone or online.,,,
+FAQ,Is there a quiet corner for working?,"Yes, we have a few tables perfect for work or study.",,,
+FAQ,Can I add extra cheese to my sandwich?,Sure! Just let us know how much extra you’d like.,,,
+FAQ,Do you have healthy salad options?,"Yes, we have a variety of fresh salads with optional protein.",,,
+FAQ,Can I request a custom smoothie?,Absolutely! You can pick your fruits and add-ons.,,,
+FAQ,Is there a loyalty app I can use?,"Yes, our loyalty program is accessible via our website and app.",,,
+FAQ,Do you provide catering for office meetings?,"Yes, we cater for small and medium office events.",,,
+FAQ,Can I make a reservation online?,"Yes, reservations can be made through our website or mobile app.",,,
+FAQ,Are there nut-free options?,"Yes, we can guide you to nut-free menu items.",,,
+FAQ,Can I request a specific table?,"Yes, please mention your preference when booking.",,,
+FAQ,Do you offer seasonal coffee flavors?,Yes! Seasonal flavors are available; check our Promotions sheet.,,,
+FAQ,Is there a happy hour?,Occasionally! Check our Promotions sheet or social media for details.,,,
+FAQ,Can I order a dessert platter?,"Yes, dessert platters can be pre-ordered for parties or events.",,,
+FAQ,Do you provide gluten-free bread?,"Yes, gluten-free bread is available on request.",,,
+FAQ,Can I gift someone a meal voucher?,Absolutely! Gift vouchers are available for all occasions.,,,
+FAQ,Do you have breakfast combos?,"Yes, we have breakfast combos served all day.",,,
+FAQ,Can I order extra sides with my meal?,Of course! Extra sides can be added for an additional cost.,,,
+FAQ,Do you have takeaway packaging that is eco-friendly?,"Yes, we use recyclable and biodegradable packaging where possible.",,,
+FAQ,Can I pay via card without contact?,"Yes, contactless card payments are accepted.",,,
+FAQ,Are there any vegan drinks?,"Yes, plant-based milk options are available for all drinks.",,,
+FAQ,Can I request my food to be less spicy?,Absolutely! Just let us know your spice preference.,,,
+FAQ,Do you have breakfast pastries?,"Yes! We serve croissants, muffins, and other pastries all day.",,,
+FAQ,Can I book a table for tomorrow morning?,"Yes, call or book online to reserve your table for tomorrow.",,,
+FAQ,Is there wheelchair access?,"Yes, our restaurant is wheelchair accessible.",,,
+FAQ,Do you offer loyalty points for online orders?,Yes! Online and delivery orders earn loyalty points.,,,
+FAQ,Can I order only drinks for delivery?,"Yes, beverages can be ordered alone for delivery.",,,
+FAQ,Do you offer catering for birthdays?,"Yes, we provide catering packages for birthday parties.",,,
+FAQ,Can I split the bill among friends?,Absolutely! Bills can be split across multiple payment methods.,,,
+FAQ,Do you have special meals for dietary restrictions?,"Yes, we can accommodate many dietary needs—just ask our staff.",,,
+Promotion,Single Hot Beverage + Pastry,Hot drink + pastry,,,
+Promotion,2 for 1 Beef / Chicken Burger + Wedges,"Buy 2 burgers + wedges, get discount",,,
+Promotion,Orange Cream Cake BOGOF,"Buy one Orange Cream Cake, get the second one free / 50% off",,,
+Promotion,Java Loyalty‑App Points & Exclusive Offers,"Earn points per spend, redeem for food & drinks",,,
+Info,Name,Java House,,,
+Info,Branch / Location,"Lenana Road, Nairobi City, Nairobi County, Kenya",,,
+Info,Contact Phone,+254 722 123 456,,,
+Info,Opening Hours,"Mon–Sat: 07:00–20:30, Sun: 08:00–20:30",,,
+Info,Seating Type,"Casual dining, family friendly",,,
+Info,Notes,Popular for coffee and all‑day meals; accepts card and M‑Pesa.,,,

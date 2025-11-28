@@ -1,0 +1,101 @@
+Order ID,Date,Time,Table,Items,Total (KES)
+O1001,2025‑11‑20,13:05,Table 5,"Giant Beef Samosa, Crispy Chicken Salad, Double Vanilla Latte",1670
+O1002,2025‑11‑21,18:35,Table 2,"Classic Smash Burger, Chips, Soft Drink",1670
+O1003,2025‑11‑22,09:35,Table 8,"Full House Burger, Breakfast Sandwich Combo",2290
+O1004,2025‑11‑23,20:05,Table 3,"Java Special Chicken Curry, Veggie Burger, Chocolate Fudge Cake, Latte",2770
+O1005,2025-11-24,9:00,Table 1,"Giant Beef Samosa, Chips, Latte",1520
+O1006,2025-11-24,10:30,Table 2,"Crispy Chicken Salad, Full House Burger, Soft Drink",1980
+O1007,2025-11-24,12:00,Table 3,"Classic Smash Burger, Chocolate Fudge Cake, Latte",2100
+O1008,2025-11-24,13:30,Table 4,"Double Vanilla Latte, Veggie Burger, Chips",1650
+O1009,2025-11-24,15:00,Table 5,"Java Special Chicken Curry, Full House Burger, Soft Drink",2370
+O1010,2025-11-24,16:30,Table 6,"Giant Beef Samosa, Crispy Chicken Salad, Latte",1790
+O1011,2025-11-24,18:00,Table 7,"Breakfast Sandwich Combo, Chocolate Fudge Cake, Latte",2250
+O1012,2025-11-24,19:30,Table 8,"Classic Smash Burger, Chips, Soft Drink",1680
+O1013,2025-11-24,21:00,Table 9,"Full House Burger, Veggie Burger, Double Vanilla Latte",2490
+O1014,2025-11-25,9:00,Table 10,"Java Special Chicken Curry, Chocolate Fudge Cake, Latte",2600
+O1015,2025-11-25,10:30,Table 1,"Giant Beef Samosa, Full House Burger, Soft Drink",1980
+O1016,2025-11-25,12:00,Table 2,"Crispy Chicken Salad, Chips, Latte",1750
+O1017,2025-11-25,13:30,Table 3,"Classic Smash Burger, Double Vanilla Latte, Veggie Burger",2120
+O1018,2025-11-25,15:00,Table 4,"Full House Burger, Chocolate Fudge Cake, Soft Drink",2330
+O1019,2025-11-25,16:30,Table 5,"Java Special Chicken Curry, Crispy Chicken Salad, Latte",2410
+O1020,2025-11-25,18:00,Table 6,"Giant Beef Samosa, Breakfast Sandwich Combo, Soft Drink",1900
+O1021,2025-11-25,19:30,Table 7,"Classic Smash Burger, Veggie Burger, Chocolate Fudge Cake",2210
+O1022,2025-11-25,21:00,Table 8,"Double Vanilla Latte, Full House Burger, Chips",1990
+O1023,2025-11-26,9:00,Table 9,"Giant Beef Samosa, Crispy Chicken Salad, Latte",1760
+O1024,2025-11-26,10:30,Table 10,"Java Special Chicken Curry, Classic Smash Burger, Soft Drink",2480
+O1025,2025-11-26,12:00,Table 1,"Breakfast Sandwich Combo, Chips, Soft Drink",1820
+O1026,2025-11-26,13:30,Table 2,"Full House Burger, Double Vanilla Latte, Veggie Burger",2350
+O1027,2025-11-26,15:00,Table 3,"Giant Beef Samosa, Crispy Chicken Salad, Latte",1770
+O1028,2025-11-26,16:30,Table 4,"Classic Smash Burger, Chocolate Fudge Cake, Soft Drink",2100
+O1029,2025-11-26,18:00,Table 5,"Java Special Chicken Curry, Full House Burger, Latte",2480
+O1030,2025-11-26,19:30,Table 6,"Double Vanilla Latte, Veggie Burger, Chips",1850
+O1031,2025-11-26,21:00,Table 7,"Breakfast Sandwich Combo, Chocolate Fudge Cake, Latte",2200
+O1032,2025-11-27,9:00,Table 8,"Classic Smash Burger, Crispy Chicken Salad, Soft Drink",1720
+O1033,2025-11-27,10:30,Table 9,"Full House Burger, Double Vanilla Latte, Chips",2400
+O1034,2025-11-27,12:00,Table 10,"Java Special Chicken Curry, Veggie Burger, Soft Drink",2520
+O1035,2025-11-27,13:30,Table 1,"Giant Beef Samosa, Chocolate Fudge Cake, Latte",1780
+O1036,2025-11-27,15:00,Table 2,"Classic Smash Burger, Full House Burger, Latte",2230
+O1037,2025-11-27,16:30,Table 3,"Breakfast Sandwich Combo, Crispy Chicken Salad, Soft Drink",1810
+O1038,2025-11-27,18:00,Table 4,"Double Vanilla Latte, Veggie Burger, Chocolate Fudge Cake",2000
+O1039,2025-11-27,19:30,Table 5,"Java Special Chicken Curry, Chips, Soft Drink",2400
+O1040,2025-11-27,21:00,Table 6,"Full House Burger, Breakfast Sandwich Combo, Latte",2450
+O1041,2025-11-28,9:00,Table 7,"Giant Beef Samosa, Classic Smash Burger, Soft Drink",1800
+O1042,2025-11-28,10:30,Table 8,"Crispy Chicken Salad, Chocolate Fudge Cake, Latte",1950
+O1043,2025-11-28,12:00,Table 9,"Double Vanilla Latte, Full House Burger, Veggie Burger",2380
+O1044,2025-11-28,13:30,Table 10,"Java Special Chicken Curry, Breakfast Sandwich Combo, Chips",2500
+O1045,2025-11-28,15:00,Table 1,"Giant Beef Samosa, Double Vanilla Latte, Chips",1920
+O1046,2025-11-28,16:30,Table 2,"Full House Burger, Crispy Chicken Salad, Latte",2420
+O1047,2025-11-28,18:00,Table 3,"Classic Smash Burger, Chocolate Fudge Cake, Soft Drink",2170
+O1048,2025-11-28,19:30,Table 4,"Breakfast Sandwich Combo, Veggie Burger, Latte",1980
+O1049,2025-11-28,21:00,Table 5,"Java Special Chicken Curry, Full House Burger, Soft Drink",2510
+O1050,2025-11-29,9:00,Table 6,"Double Vanilla Latte, Chips, Crispy Chicken Salad",1850
+O1051,2025-11-29,10:30,Table 7,"Giant Beef Samosa, Chocolate Fudge Cake, Latte",1900
+O1052,2025-11-29,12:00,Table 8,"Full House Burger, Breakfast Sandwich Combo, Soft Drink",2480
+O1053,2025-11-29,13:30,Table 9,"Classic Smash Burger, Double Vanilla Latte, Veggie Burger",2120
+O1054,2025-11-29,15:00,Table 10,"Java Special Chicken Curry, Crispy Chicken Salad, Latte",2450
+O1055,2025-11-29,16:30,Table 1,"Giant Beef Samosa, Full House Burger, Soft Drink",1970
+O1056,2025-11-29,18:00,Table 2,"Breakfast Sandwich Combo, Chocolate Fudge Cake, Latte",2220
+O1057,2025-11-29,19:30,Table 3,"Classic Smash Burger, Chips, Soft Drink",1800
+O1058,2025-11-29,21:00,Table 4,"Full House Burger, Double Vanilla Latte, Veggie Burger",2500
+O1059,2025-11-30,9:00,Table 5,"Java Special Chicken Curry, Chocolate Fudge Cake, Latte",2570
+O1060,2025-11-30,10:30,Table 6,"Giant Beef Samosa, Crispy Chicken Salad, Soft Drink",1920
+O1061,2025-11-30,12:00,Table 7,"Breakfast Sandwich Combo, Double Vanilla Latte, Chips",1880
+O1062,2025-11-30,13:30,Table 8,"Full House Burger, Chocolate Fudge Cake, Latte",2450
+O1063,2025-11-30,15:00,Table 9,"Classic Smash Burger, Crispy Chicken Salad, Soft Drink",1980
+O1064,2025-11-30,16:30,Table 10,"Java Special Chicken Curry, Full House Burger, Latte",2600
+O1065,2025-11-30,18:00,Table 1,"Giant Beef Samosa, Double Vanilla Latte, Veggie Burger",1940
+O1066,2025-11-30,19:30,Table 2,"Breakfast Sandwich Combo, Chocolate Fudge Cake, Soft Drink",2200
+O1067,2025-11-30,21:00,Table 3,"Classic Smash Burger, Full House Burger, Latte",2450
+O1068,2025-12-01,9:00,Table 4,"Java Special Chicken Curry, Crispy Chicken Salad, Chips",2520
+O1069,2025-12-01,10:30,Table 5,"Giant Beef Samosa, Breakfast Sandwich Combo, Latte",1880
+O1070,2025-12-01,12:00,Table 6,"Full House Burger, Double Vanilla Latte, Soft Drink",2480
+O1071,2025-12-01,13:30,Table 7,"Classic Smash Burger, Chocolate Fudge Cake, Veggie Burger",2200
+O1072,2025-12-01,15:00,Table 8,"Breakfast Sandwich Combo, Crispy Chicken Salad, Latte",1850
+O1073,2025-12-01,16:30,Table 9,"Java Special Chicken Curry, Full House Burger, Soft Drink",2600
+O1074,2025-12-01,18:00,Table 10,"Giant Beef Samosa, Double Vanilla Latte, Chips",1900
+O1075,2025-12-01,19:30,Table 1,"Full House Burger, Chocolate Fudge Cake, Latte",2500
+O1076,2025-12-01,21:00,Table 2,"Classic Smash Burger, Breakfast Sandwich Combo, Soft Drink",2120
+O1077,2025-12-02,9:00,Table 3,"Java Special Chicken Curry, Crispy Chicken Salad, Latte",2550
+O1078,2025-12-02,10:30,Table 4,"Giant Beef Samosa, Full House Burger, Soft Drink",1950
+O1079,2025-12-02,12:00,Table 5,"Breakfast Sandwich Combo, Double Vanilla Latte, Chips",1880
+O1080,2025-12-02,13:30,Table 6,"Full House Burger, Chocolate Fudge Cake, Soft Drink",2470
+O1081,2025-12-02,15:00,Table 7,"Classic Smash Burger, Crispy Chicken Salad, Latte",2000
+O1082,2025-12-02,16:30,Table 8,"Java Special Chicken Curry, Full House Burger, Veggie Burger",2600
+O1083,2025-12-02,18:00,Table 9,"Giant Beef Samosa, Chocolate Fudge Cake, Latte",1920
+O1084,2025-12-02,19:30,Table 10,"Breakfast Sandwich Combo, Double Vanilla Latte, Soft Drink",1850
+O1085,2025-12-02,21:00,Table 1,"Full House Burger, Classic Smash Burger, Chips",2500
+O1086,2025-12-03,9:00,Table 2,"Java Special Chicken Curry, Crispy Chicken Salad, Latte",2550
+O1087,2025-12-03,10:30,Table 3,"Giant Beef Samosa, Breakfast Sandwich Combo, Soft Drink",1900
+O1088,2025-12-03,12:00,Table 4,"Full House Burger, Double Vanilla Latte, Veggie Burger",2480
+O1089,2025-12-03,13:30,Table 5,"Classic Smash Burger, Chocolate Fudge Cake, Latte",2220
+O1090,2025-12-03,15:00,Table 6,"Breakfast Sandwich Combo, Crispy Chicken Salad, Soft Drink",1850
+O1091,2025-12-03,16:30,Table 7,"Java Special Chicken Curry, Full House Burger, Chips",2600
+O1092,2025-12-03,18:00,Table 8,"Giant Beef Samosa, Double Vanilla Latte, Latte",1920
+O1093,2025-12-03,19:30,Table 9,"Full House Burger, Breakfast Sandwich Combo, Soft Drink",2500
+O1094,2025-12-03,21:00,Table 10,"Classic Smash Burger, Crispy Chicken Salad, Latte",2100
+O1095,2025-12-04,9:00,Table 1,"Java Special Chicken Curry, Chocolate Fudge Cake, Soft Drink",2580
+O1096,2025-12-04,10:30,Table 2,"Giant Beef Samosa, Full House Burger, Double Vanilla Latte",1920
+O1097,2025-12-04,12:00,Table 3,"Breakfast Sandwich Combo, Classic Smash Burger, Soft Drink",1850
+O1098,2025-12-04,13:30,Table 4,"Full House Burger, Crispy Chicken Salad, Latte",2480
+O1099,2025-12-04,15:00,Table 5,"Giant Beef Samosa, Chocolate Fudge Cake, Soft Drink",1900
+O1100,2025-12-04,16:30,Table 6,"Java Special Chicken Curry, Breakfast Sandwich Combo, Latte",2600
