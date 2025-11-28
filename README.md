@@ -64,20 +64,54 @@ Tools used for EDA may include Python libraries like `pandas`, `matplotlib`, or 
   - Handling common conversation intents  
   - Providing accurate responses
 
-### 7. Model Training & Evaluation (Optional / Future)
-- If implementing NLP models for improved conversation:
-  - Train models on historical query-response data  
-  - Evaluate using metrics such as accuracy, F1-score, or conversational success rate  
-  - Fine-tune the knowledge base and response patterns based on evaluation
+### 7. Chatbot Evaluation
 
-### 8. Deployment
-- Currently, the chatbot is run locally for testing and debugging.  
-- Future deployment plans include:
-  - Hosting on a cloud server  
-  - Connecting to messaging platforms via API  
-  - Ensuring secure access and data privacy
+To ensure the Java Restaurant Chatbot performs effectively, we evaluate it across the following metrics:
+
+1. Accuracy
+- Test queries against expected answers from the knowledge base.
+- Score: Correct = 1, Partial = 0.5, Incorrect = 0.
+- Accuracy (%) = (Correct Responses / Total Test Questions) × 100
+
+2. Coverage
+- Measure the percentage of knowledge base entries correctly triggered by test queries.
+- Coverage (%) = (KB entries correctly triggered / Total KB entries) × 100
+
+3. Usability
+- Assess clarity, tone, and response handling by testers.
+- Feedback scored on a scale of 1–5.
+
+4. Robustness
+- Test multiple rapid queries and edge cases to ensure stability.
+
+5. Future NLP Metrics
+- If NLP models are added in the future: evaluate Precision, Recall, F1-score, and response appropriateness.
 
 ---
 
+## Future Recommendations and Improvements
+
+- **NLP Integration:** Implement natural language understanding to handle more diverse user queries and improve conversational flow.  
+- **Multi-Platform Deployment:** Deploy the chatbot on cloud servers and integrate with messaging platforms like WhatsApp, Telegram, and web interfaces.  
+- **Dynamic Knowledge Base:** Enable real-time updates to menu items, specials, and reservations without redeploying the bot.  
+- **Analytics Dashboard:** Track user interactions, frequently asked questions, and chatbot performance for continuous improvement.  
+- **Personalization:** Add user profiles to provide tailored recommendations and offers.  
+
+## Challenges Encountered
+
+- **Data Collection:** Manual collection of restaurant data and FAQs was time-consuming.  
+- **Knowledge Base Maintenance:** Ensuring consistency and coverage of all possible queries was challenging.  
+- **Local Deployment Limitations:** Current chatbot runs locally, limiting accessibility and testing across multiple devices.  
+- **Handling Edge Cases:** Uncommon or poorly formatted queries sometimes resulted in incorrect or empty responses.  
+- **Scalability:** Preparing the system for higher traffic and future integration with AI/NLP models requires additional resources.
+
+---
+
+### Chatbot URL
+```
+
+```
+
+---
 
 
