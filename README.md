@@ -32,7 +32,7 @@ The project workflow is structured in the following stages:
 
 ### 2. Data Storage
 - Data is stored in structured formats (CSV, JSON) suitable for ingestion by the chatbot.  
-- Knowledge base files are organized under the `data/` directory.
+- Knowledge base files are organized under the restaurant_kb files(.json &csv)
 
 ### 3. Data Preprocessing
 - Clean and format data for consistency:
