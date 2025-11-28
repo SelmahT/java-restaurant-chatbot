@@ -1,8 +1,9 @@
 # Java Restaurant Chatbot
 
 **Project Contributors:**
- Selmah Tzindori- Data Collection Assist,Data Preparation and EDA,Evaluation of the Chatbot
- Saruni Mores- Data Collection Lead,Chatbot Developer & Workflow Engineer
+1) Selmah Tzindori- Data Collection Assist,Data Preparation and EDA,Evaluation of the Chatbot
+ 
+2) Saruni Mores- Data Collection Lead,Chatbot Developer & Workflow Engineer
 
 ---
 
