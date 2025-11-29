@@ -1,7 +1,7 @@
 # Java Restaurant Chatbot
 
 **Project Contributors:**
-1) Selmah Tzindori- Data Collection Assist,Data Preparation and EDA,Evaluation of the Chatbot
+1) Selmah Tzindori- Data Collection Assist,Data Preparation and EDA, Chatbot Assist & Evaluation of the Chatbot
  
 2) Saruni Mores- Data Collection Lead,Chatbot Developer & Workflow Engineer
 
@@ -111,7 +111,6 @@ To ensure the Java Restaurant Chatbot performs effectively, we evaluate it acros
 ### Chatbot URL
 ```
 https://huggingface.co/spaces/SelmahT/java_restaurant
-
 ```
 
 ---
