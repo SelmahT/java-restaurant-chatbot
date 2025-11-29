@@ -58,12 +58,13 @@ Tools used for EDA may include Python libraries like `pandas`, `matplotlib`, or 
 - This forms the core reference for the chatbot’s responses.
 
 ### 6. Chatbot Development
-- Integration of the knowledge base into the chatbot workflow (n8n or other AI frameworks).  
-- Chatbot can be accessed through different channels (web interface, Telegram, WhatsApp).  
-- Initial training focuses on:
-  - Matching user queries to KB entries  
-  - Handling common conversation intents  
-  - Providing accurate responses
+- Integrated the knowledge base directly into the Python-based chatbot backend.  
+- The chatbot is accessible through the web interface on Hugging Face Spaces.  
+- Key focus areas during initial development:
+  - Accurately matching user queries to knowledge base entries  
+  - Handling common conversation intents and user interactions  
+  - Providing precise and contextually appropriate responses
+
 
 ### 7. Chatbot Evaluation
 
@@ -110,7 +111,7 @@ To ensure the Java Restaurant Chatbot performs effectively, we evaluate it acros
 
 ### Chatbot URL
 ```
-https://huggingface.co/spaces/SelmahT/java_restaurant
+https://huggingface.co/spaces/SelmahT/java_restaurant_chatbot
 ```
 
 ---
