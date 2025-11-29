@@ -110,6 +110,7 @@ To ensure the Java Restaurant Chatbot performs effectively, we evaluate it acros
 
 ### Chatbot URL
 ```
+https://huggingface.co/spaces/SelmahT/java_restaurant
 
 ```
 
