@@ -227,7 +227,7 @@ with gr.Blocks(title="Java Restaurant Chatbot") as demo:
     gr.Markdown("<h1 style='color:#FF5733'>🍽 Java Restaurant Chatbot 🍽</h1><hr>")
     with gr.Row():
         with gr.Column(scale=3):
-            chatbot = gr.Chatbot(elem_id="chatbot", label="Chat", type="messages")
+            chatbot = gr.Chatbot(elem_id="chatbot", label="Chat")
             msg = gr.Textbox(placeholder="Ask about menu, reservations, hours...", show_label=False)
             submit = gr.Button("Send")
             clear_btn = gr.Button("Clear Chat")
