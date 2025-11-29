@@ -1,0 +1,5 @@
+gradio>=3.39
+sentence-transformers
+scikit-learn
+numpy
+tqdm
